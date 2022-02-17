@@ -4,4 +4,3 @@ Knowledge-based approach to a song recommendation system. Designed as a final te
 # Helpful Documentation Links
 Spotify Web API: https://developer.spotify.com/documentation/web-api/reference/#/ 
 
-Spotipy: https://spotipy.readthedocs.io/en/2.19.0/
