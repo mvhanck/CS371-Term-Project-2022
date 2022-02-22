@@ -1,0 +1,58 @@
+(in-microtheory MusicRecommenderMt)
+
+;;; Horn Clauses - same and similar songs
+
+(<== (sameGenre ?song1 ?song2)
+  (songGenre ?song1 ?genre)
+  (songGenre ?song2 ?genre)
+  (different ?song1 ?song2)
+)
+
+(<== (similarGenre ?song1 ?song2)
+  (songGenre ?song1 ?genre)
+  (songGenre ?song2 ?genre)
+  (different ?song1 ?song2)
+)
+
+(<== (sameYear ?song1 ?song2)
+  (songReleaseDate ?song1 ?song2)
+  (songReleaseDate ?song2 ?year)
+  (different ?song1 ?song2)
+)
+
+(<== (sameDecade ?song1 ?song2)
+  (songReleaseDate ?song1 ?song2)
+  (songReleaseDate ?song2 ?decade)
+  (different ?song1 ?song2)
+)
+
+(<== (sameArtist ?song1 ?song2)
+  (songArtist ?song1 ?artist)
+  (songArtist ?song2 ?artist)
+  (different ?song1 ?song2)
+)
+
+(<== (similarArtist ?song1 ?song2)
+  (songArtist ?song1 ?artist)
+  (songArtist ?song2 ?artist)
+  (different ?song1 ?song2)
+)
+
+(<== (sameAlbum ?song1 ?song2)
+  (songAlbum ?song1 ?album)
+  (songAlbum ?song2 ?album)
+  (different ?song1 ?song2)
+)
+
+(<== (similarAlbum ?song1 ?song2)
+  (songAlbum ?song1 ?album)
+  (songAlbum ?song2 ?album)
+  (different ?song1 ?song2)
+)
+
+(<== (sameRecordLabel ?song1 ?song2)
+  (songRecordLabel ?song1 ?recordlabel)
+  (songRecordLabel ?song2 ?recordlabel)
+  (different ?song1 ?song2)
+)
+
