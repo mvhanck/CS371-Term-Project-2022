@@ -46,7 +46,7 @@ for row in results_df.itertuples():
 print(songDict)
 
 
-file1 = open("MyFile.txt","a", encoding="utf-8")
+file1 = open("MyFile.krf","a", encoding="utf-8")
 for title in songDict.keys():
     date = songDict[title]["date"].replace(" ", "")
     lang = songDict[title]["language"].replace(" ", "")
