@@ -7,24 +7,28 @@
 (arity inGenre 2)
 (arg1isa inGenre Song-CW)
 (arg2isa inGenre Music)
+(genlPreds inGenre musicTypeIsOfGenre)
 (comment inGenre "(inGenre ?song ?genre) says ?song is in the ?genre genre")
 
 (isa hasPublishDate Predicate) 
 (arity hasPublishDate 2)
 (arg1isa hasPublishDate Song-CW)
 (arg2isa hasPublishDate NumberString)
+(genlPreds hasPublishDate dateOfPublication-CW)
 (comment hasPublishDate "(hasPublishDate ?song ?date) says ?song was published on ?date")
 
 (isa isWrittenBy Predicate)
 (arity isWrittenBy 2)
 (arg1isa isWrittenBy Song-CW)
 (arg2isa isWrittenBy Songwriter)
+(genlsPreds isWrittenBy creatorOfCW)
 (comment isWrittenBy "(isWrittenBy ?song ?lyricist) says ?song is written by ?lyricist")
 
 (isa inLanguage Predicate)
 (arity inLanguage 2)
 (arg1isa inLanguage Song-CW)
 (arg2isa inLanguage HumanLanguage)
+(genlPreds inLanguage languageWrittenIn)
 (comment inLanguage "(inLanguage ?song ?lang) says ?song is sung in ?inLanguage")
 
 
