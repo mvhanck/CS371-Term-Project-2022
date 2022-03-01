@@ -1,3 +1,5 @@
+(in-microtheory MusicRecommenderMt)
+
 (isa electronicmusic genre) 
 (isa reggae genre) 
 (isa popmusic genre) 
