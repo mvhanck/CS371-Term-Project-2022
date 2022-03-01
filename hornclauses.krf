@@ -26,25 +26,27 @@
   (different ?song1 ?song2)
 )
 
-(<== (sameLyricist ?song1 ?song2)
-  (isWrittenBy ?song1 ?lyricist)
-  (isWrittenBy ?song2 ?lyricist)
+(<== (sameMusician ?song1 ?song2)
+  (isWrittenBy ?song1 ?musician)
+  (isWrittenBy ?song2 ?musician)
   (different ?song1 ?song2)
 )
 
-(<== (similarLyricist ?song1 ?song2)
-  (isWrittenBy ?song1 ?lyricist)
-  (isWrittenBy ?song2 ?lyricist)
+(<== (similarMusician ?song1 ?song2)
+  (isWrittenBy ?song1 ?musician)
+  (isWrittenBy ?song2 ?musician)
   (different ?song1 ?song2)
 )
 
-(<== (sameLanguage ?song1 ?song2)
-  (inLanguage ?song1 ?lang)
-  (inLanguage ?song2 ?lang)
+(<== (sameInfluence ?song1 ?song2)
+  (influencedBy ?song1 ?musician1)
+  (influencedBy ?song2 ?musician2)
   (different ?song1 ?song2)
 )
-
 
 
 ;;; Recommend Song
 
+(<== (recommendSimilarSongs ?inputsong)
+  (similarGenre ?inputsong)
+  )
