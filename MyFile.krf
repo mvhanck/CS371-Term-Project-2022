@@ -1,939 +1,3 @@
-(isa popmusic genre) 
-(isa synth-pop genre) 
-(isa hiphopmusic genre) 
-(isa electropop genre) 
-(isa poprap genre) 
-(isa trapmusic genre) 
-(isa alternativerock genre) 
-(isa electronicrock genre) 
-(isa newwave genre) 
-(isa folkrock genre) 
-(isa spacerock genre) 
-(isa charitysingle genre) 
-(isa dance-pop genre) 
-(isa psychedelicrock genre) 
-(isa contemporaryR&B genre) 
-(isa funk genre) 
-(isa poprock genre) 
-(isa rockandroll genre) 
-(isa rhythmandblues genre) 
-(isa rap genre) 
-(isa rockmusic genre) 
-(isa Christmasmusic genre) 
-(isa Latinpop genre) 
-(isa protestsong genre) 
-(isa grunge genre) 
-(isa electronicdancemusic genre) 
-(isa vocalhouse genre) 
-(isa bluesrock genre) 
-(isa deephouse genre) 
-(isa electro genre) 
-(isa chanson genre) 
-(isa blues genre) 
-(isa Latinrock genre) 
-(isa countrymusic genre) 
-(isa electronicmusic genre) 
-(isa housemusic genre) 
-(isa countrypop genre) 
-(isa English language) 
-(isa German language) 
-(isa American English language) 
-(isa French language) 
-(isa Chinese language) 
-(isa British English language) 
-(isa Spanish language) 
-(isa SarahMcLachlan musician) 
-(influencedBy SarahMcLachlan JoniMitchell) 
-(isa JoniMitchell musician) 
-(isa LadyGaga musician) 
-(influencedBy LadyGaga Madonna) 
-(influencedBy LadyGaga DavidBowie) 
-(influencedBy LadyGaga Queen) 
-(isa Madonna musician) 
-(influencedBy Madonna DavidBowie) 
-(influencedBy Madonna MaeWest) 
-(influencedBy Madonna DebbieHarry) 
-(influencedBy Madonna ChrissieHynde) 
-(influencedBy Madonna MarthaGraham) 
-(isa DavidBowie musician) 
-(influencedBy DavidBowie PinkFloyd) 
-(isa Queen musician) 
-(isa JuicyJ musician) 
-(influencedBy JuicyJ Three6Mafia) 
-(isa Three6Mafia musician) 
-(isa JohnCale musician) 
-(influencedBy JohnCale AntonioVivaldi) 
-(influencedBy JohnCale BedřichSmetana) 
-(influencedBy JohnCale EdgardVarèse) 
-(influencedBy JohnCale IannisXenakis) 
-(influencedBy JohnCale MortonFeldman) 
-(influencedBy JohnCale LaMonteYoung) 
-(isa AntonioVivaldi musician) 
-(isa BedřichSmetana musician) 
-(isa EdgardVarèse musician) 
-(isa IannisXenakis musician) 
-(isa MortonFeldman musician) 
-(isa LaMonteYoung musician) 
-(isa Shakira musician) 
-(influencedBy Shakira JohnLennon) 
-(influencedBy Shakira Prince) 
-(influencedBy Shakira RedHotChiliPeppers) 
-(influencedBy Shakira TheRollingStones) 
-(influencedBy Shakira TheClash) 
-(influencedBy Shakira TomPetty) 
-(influencedBy Shakira Ramones) 
-(influencedBy Shakira TheCure) 
-(influencedBy Shakira Andeanmusic) 
-(influencedBy Shakira ThePretenders) 
-(influencedBy Shakira Fairuz) 
-(isa JohnLennon musician) 
-(isa Prince musician) 
-(influencedBy Prince StevieWonder) 
-(influencedBy Prince TheBeatles) 
-(influencedBy Prince JimiHendrix) 
-(influencedBy Prince JamesBrown) 
-(influencedBy Prince LittleRichard) 
-(influencedBy Prince JoniMitchell) 
-(influencedBy Prince RickJames) 
-(influencedBy Prince GeorgeClinton) 
-(influencedBy Prince CarlosSantana) 
-(influencedBy Prince SlyandtheFamilyStone) 
-(isa RedHotChiliPeppers musician) 
-(isa TheRollingStones musician) 
-(isa TheClash musician) 
-(isa TomPetty musician) 
-(isa Ramones musician) 
-(isa TheCure musician) 
-(isa Andeanmusic musician) 
-(isa ThePretenders musician) 
-(isa Fairuz musician) 
-(isa Rihanna musician) 
-(influencedBy Rihanna Aaliyah) 
-(isa Aaliyah musician) 
-(isa PinkFloyd musician) 
-(isa LionelRichie musician) 
-(influencedBy LionelRichie MarvinGaye) 
-(influencedBy LionelRichie OtisRedding) 
-(isa MarvinGaye musician) 
-(isa OtisRedding musician) 
-(isa RayManzarek musician) 
-(influencedBy RayManzarek JackKerouac) 
-(isa JackKerouac musician) 
-(isa StevieWonder musician) 
-(isa TheBeatles musician) 
-(isa JimiHendrix musician) 
-(isa JamesBrown musician) 
-(isa LittleRichard musician) 
-(isa RickJames musician) 
-(isa GeorgeClinton musician) 
-(isa CarlosSantana musician) 
-(isa SlyandtheFamilyStone musician) 
-(isa M.Pokora musician) 
-(influencedBy M.Pokora MichaelJackson) 
-(influencedBy M.Pokora Usher) 
-(influencedBy M.Pokora ClaudeFrançois) 
-(isa MichaelJackson musician) 
-(influencedBy MichaelJackson CharlieChaplin) 
-(influencedBy MichaelJackson TheBeatles) 
-(influencedBy MichaelJackson JamesBrown) 
-(influencedBy MichaelJackson DianaRoss) 
-(influencedBy MichaelJackson FredAstaire) 
-(influencedBy MichaelJackson MarcelMarceau) 
-(influencedBy MichaelJackson JackieWilson) 
-(influencedBy MichaelJackson SamCooke) 
-(influencedBy MichaelJackson SammyDavisJr.) 
-(influencedBy MichaelJackson SlyStone) 
-(isa Usher musician) 
-(isa ClaudeFrançois musician) 
-(isa CharlieChaplin musician) 
-(isa DianaRoss musician) 
-(isa FredAstaire musician) 
-(isa MarcelMarceau musician) 
-(isa JackieWilson musician) 
-(isa SamCooke musician) 
-(isa SammyDavisJr. musician) 
-(isa SlyStone musician) 
-(isa EsterDean musician) 
-(influencedBy EsterDean NickiMinaj) 
-(isa NickiMinaj musician) 
-(isa FatsDomino musician) 
-(influencedBy FatsDomino AmosMilburn) 
-(isa AmosMilburn musician) 
-(isa BlackM musician) 
-(influencedBy BlackM MichaelJackson) 
-(isa DanielBalavoine musician) 
-(influencedBy DanielBalavoine BobDylan) 
-(influencedBy DanielBalavoine LedZeppelin) 
-(influencedBy DanielBalavoine Queen) 
-(influencedBy DanielBalavoine PhilCollins) 
-(influencedBy DanielBalavoine Genesis) 
-(influencedBy DanielBalavoine PeterGabriel) 
-(influencedBy DanielBalavoine Supertramp) 
-(influencedBy DanielBalavoine ThePolice) 
-(influencedBy DanielBalavoine Yes) 
-(influencedBy DanielBalavoine TearsforFears) 
-(influencedBy DanielBalavoine MichelBerger) 
-(influencedBy DanielBalavoine Christophe) 
-(isa BobDylan musician) 
-(influencedBy BobDylan WoodyGuthrie) 
-(influencedBy BobDylan AllenGinsberg) 
-(isa LedZeppelin musician) 
-(isa PhilCollins musician) 
-(isa Genesis musician) 
-(isa PeterGabriel musician) 
-(isa Supertramp musician) 
-(isa ThePolice musician) 
-(isa Yes musician) 
-(isa TearsforFears musician) 
-(isa MichelBerger musician) 
-(isa Christophe musician) 
-(isa Zazie musician) 
-(influencedBy Zazie JacquesBrel) 
-(isa JacquesBrel musician) 
-(isa AxelTony musician) 
-(influencedBy AxelTony BoyzIIMen) 
-(isa BoyzIIMen musician) 
-(isa CarolineLoeb musician) 
-(influencedBy CarolineLoeb MaeWest) 
-(influencedBy CarolineLoeb ZiziJeanmaire) 
-(influencedBy CarolineLoeb TallulahBankhead) 
-(isa MaeWest musician) 
-(isa ZiziJeanmaire musician) 
-(isa TallulahBankhead musician) 
-(isa PaddyMcAloon musician) 
-(influencedBy PaddyMcAloon StephenSondheim) 
-(isa StephenSondheim musician) 
-(isa YokoOno musician) 
-(influencedBy YokoOno AllanKaprow) 
-(isa AllanKaprow musician) 
-(isa DebbieHarry musician) 
-(isa ChrissieHynde musician) 
-(isa MarthaGraham musician) 
-(isa TeddySinclair musician) 
-(influencedBy TeddySinclair Madonna) 
-(isa Metallica musician) 
-(influencedBy Metallica Motörhead) 
-(influencedBy Metallica BlackSabbath) 
-(influencedBy Metallica DiamondHead) 
-(isa Motörhead musician) 
-(isa BlackSabbath musician) 
-(isa DiamondHead musician) 
-(isa Nirvana musician) 
-(influencedBy Nirvana LedZeppelin) 
-(influencedBy Nirvana BlackSabbath) 
-(influencedBy Nirvana Pixies) 
-(influencedBy Nirvana SonicYouth) 
-(influencedBy Nirvana TheStooges) 
-(isa Pixies musician) 
-(isa SonicYouth musician) 
-(isa TheStooges musician) 
-(isa WoodyGuthrie musician) 
-(isa AllenGinsberg musician) 
-(isa BillyJoel musician) 
-(influencedBy BillyJoel TheBeatles) 
-(isa Avicii musician) 
-(influencedBy Avicii SwedishHouseMafia) 
-(influencedBy Avicii DaftPunk) 
-(influencedBy Avicii Basshunter) 
-(isa SwedishHouseMafia musician) 
-(isa DaftPunk musician) 
-(isa Basshunter musician) 
-(isa U2 musician) 
-(influencedBy U2 PinkFloyd) 
-(isa LeonardCohen musician) 
-(influencedBy LeonardCohen FedericoGarcíaLorca) 
-(isa FedericoGarcíaLorca musician) 
-(isa JimMorrison musician) 
-(influencedBy JimMorrison ElvisPresley) 
-(isa ElvisPresley musician) 
-(isa JessGlynne musician) 
-(influencedBy JessGlynne AmyWinehouse) 
-(isa AmyWinehouse musician) 
-(isa JolinTsai musician) 
-(influencedBy JolinTsai Madonna) 
-(influencedBy JolinTsai WhitneyHouston) 
-(influencedBy JolinTsai MariahCarey) 
-(influencedBy JolinTsai Destiny'sChild) 
-(isa WhitneyHouston musician) 
-(isa MariahCarey musician) 
-(isa Destiny'sChild musician) 
-(isa JustinBieber musician) 
-(influencedBy JustinBieber StevieWonder) 
-(influencedBy JustinBieber TheBeatles) 
-(influencedBy JustinBieber MichaelJackson) 
-(influencedBy JustinBieber TupacShakur) 
-(influencedBy JustinBieber MariahCarey) 
-(influencedBy JustinBieber JustinTimberlake) 
-(influencedBy JustinBieber Usher) 
-(influencedBy JustinBieber BoyzIIMen) 
-(isa TupacShakur musician) 
-(isa JustinTimberlake musician) 
-(isa MarcellusLong musician) 
-(influencedBy MarcellusLong JustinTimberlake) 
-(influencedBy MarcellusLong Usher) 
-(isa BarbaraPravi musician) 
-(influencedBy BarbaraPravi ÉdithPiaf) 
-(influencedBy BarbaraPravi JacquesBrel) 
-(influencedBy BarbaraPravi Barbara) 
-(influencedBy BarbaraPravi Dalida) 
-(isa ÉdithPiaf musician) 
-(isa Barbara musician) 
-(isa Dalida musician) 
-(isa Luna musician) 
-(influencedBy Luna Lea) 
-(isa Lea musician) 
-(isa JohnLeeHooker musician) 
-(influencedBy JohnLeeHooker BlindLemonJefferson) 
-(isa BlindLemonJefferson musician) 
-(isa KatieMelua musician) 
-(influencedBy KatieMelua Queen) 
-(isa MarinaDiamandis musician) 
-(influencedBy MarinaDiamandis Madonna) 
-(influencedBy MarinaDiamandis BrodyDalle) 
-(isa BrodyDalle musician) 
-;;; Angel
-(isa Angel song) 
-(isa 1998-11-24T00:00:00Z date) 
-(inGenre Angel popmusic) 
-(isWrittenBy Angel SarahMcLachlan) 
-(hasPublishDate Angel 1998-11-24T00:00:00Z) 
-(inLanguage Angel English) 
-;;; 
-
-;;; Applause
-(isa Applause song) 
-(isa 2013-08-12T00:00:00Z date) 
-(inGenre Applause synth-pop) 
-(isWrittenBy Applause LadyGaga) 
-(hasPublishDate Applause 2013-08-12T00:00:00Z) 
-(inLanguage Applause English) 
-;;; 
-
-;;; Dark Horse
-(isa DarkHorse song) 
-(isa 2013-09-17T00:00:00Z date) 
-(inGenre DarkHorse hiphopmusic) 
-(inGenre DarkHorse electropop) 
-(inGenre DarkHorse poprap) 
-(inGenre DarkHorse trapmusic) 
-(isWrittenBy DarkHorse JuicyJ) 
-(hasPublishDate DarkHorse 2013-09-17T00:00:00Z) 
-(inLanguage DarkHorse English) 
-;;; 
-
-;;; I Wanna Talk 2 U
-(isa IWannaTalk2U song) 
-(isa 2012-07-06T00:00:00Z date) 
-(inGenre IWannaTalk2U alternativerock) 
-(isWrittenBy IWannaTalk2U JohnCale) 
-(hasPublishDate IWannaTalk2U 2012-07-06T00:00:00Z) 
-(inLanguage IWannaTalk2U English) 
-;;; 
-
-;;; Face to the Sky
-(isa FacetotheSky song) 
-(isa 2012-08-29T00:00:00Z date) 
-(inGenre FacetotheSky alternativerock) 
-(isWrittenBy FacetotheSky JohnCale) 
-(hasPublishDate FacetotheSky 2012-08-29T00:00:00Z) 
-(inLanguage FacetotheSky English) 
-;;; 
-
-;;; Living with You
-(isa LivingwithYou song) 
-(isa 2013-02-25T00:00:00Z date) 
-(inGenre LivingwithYou alternativerock) 
-(isWrittenBy LivingwithYou JohnCale) 
-(hasPublishDate LivingwithYou 2013-02-25T00:00:00Z) 
-(inLanguage LivingwithYou English) 
-;;; 
-
-;;; All Summer Long
-(isa AllSummerLong song) 
-(isa 2013-08-06T00:00:00Z date) 
-(inGenre AllSummerLong alternativerock) 
-(isWrittenBy AllSummerLong JohnCale) 
-(hasPublishDate AllSummerLong 2013-08-06T00:00:00Z) 
-(inLanguage AllSummerLong English) 
-;;; 
-
-;;; Venus
-(isa Venus song) 
-(isa 2013-10-28T00:00:00Z date) 
-(inGenre Venus synth-pop) 
-(isWrittenBy Venus LadyGaga) 
-(hasPublishDate Venus 2013-10-28T00:00:00Z) 
-(inLanguage Venus English) 
-;;; 
-
-;;; Things
-(isa Things song) 
-(isa 2003-10-27T00:00:00Z date) 
-(inGenre Things alternativerock) 
-(isWrittenBy Things JohnCale) 
-(hasPublishDate Things 2003-10-27T00:00:00Z) 
-(inLanguage Things English) 
-;;; 
-
-;;; Dope
-(isa Dope song) 
-(isa 2013-11-04T00:00:00Z date) 
-(inGenre Dope electronicrock) 
-(isWrittenBy Dope LadyGaga) 
-(hasPublishDate Dope 2013-11-04T00:00:00Z) 
-(inLanguage Dope English) 
-;;; 
-
-;;; Can't Remember to Forget You
-(isa Can'tRemembertoForgetYou song) 
-(isa 2014-01-13T00:00:00Z date) 
-(inGenre Can'tRemembertoForgetYou newwave) 
-(isWrittenBy Can'tRemembertoForgetYou Shakira) 
-(isWrittenBy Can'tRemembertoForgetYou Rihanna) 
-(hasPublishDate Can'tRemembertoForgetYou 2014-01-13T00:00:00Z) 
-(inLanguage Can'tRemembertoForgetYou English) 
-;;; 
-
-;;; Space Oddity
-(isa SpaceOddity song) 
-(isa 1969-07-11T00:00:00Z date) 
-(inGenre SpaceOddity folkrock) 
-(inGenre SpaceOddity spacerock) 
-(isWrittenBy SpaceOddity DavidBowie) 
-(hasPublishDate SpaceOddity 1969-07-11T00:00:00Z) 
-(inLanguage SpaceOddity English) 
-;;; 
-
-;;; We Are the World
-(isa WeAretheWorld song) 
-(isa 1985-03-28T00:00:00Z date) 
-(inGenre WeAretheWorld popmusic) 
-(inGenre WeAretheWorld charitysingle) 
-(isWrittenBy WeAretheWorld LionelRichie) 
-(hasPublishDate WeAretheWorld 1985-03-28T00:00:00Z) 
-(inLanguage WeAretheWorld English) 
-;;; 
-
-;;; Scheiße
-(isa Scheiße song) 
-(isa 2011-05-23T00:00:00Z date) 
-(inGenre Scheiße dance-pop) 
-(isWrittenBy Scheiße LadyGaga) 
-(hasPublishDate Scheiße 2011-05-23T00:00:00Z) 
-(inLanguage Scheiße German) 
-;;; 
-
-;;; Riders on the Storm
-(isa RidersontheStorm song) 
-(isa 1971-06-01T00:00:00Z date) 
-(inGenre RidersontheStorm psychedelicrock) 
-(isWrittenBy RidersontheStorm RayManzarek) 
-(hasPublishDate RidersontheStorm 1971-06-01T00:00:00Z) 
-(inLanguage RidersontheStorm English) 
-;;; 
-
-;;; Nothing Compares 2 U
-(isa NothingCompares2U song) 
-(isa 1990-01-08T00:00:00Z date) 
-(inGenre NothingCompares2U popmusic) 
-(isWrittenBy NothingCompares2U Prince) 
-(hasPublishDate NothingCompares2U 1990-01-08T00:00:00Z) 
-(inLanguage NothingCompares2U English) 
-;;; 
-
-;;; Dangerous
-(isa Dangerous song) 
-(isa 2008-03-22T00:00:00Z date) 
-(inGenre Dangerous contemporaryR&B) 
-(isWrittenBy Dangerous M.Pokora) 
-(hasPublishDate Dangerous 2008-03-22T00:00:00Z) 
-(inLanguage Dangerous English) 
-;;; 
-
-;;; Shake Your Body
-(isa ShakeYourBody song) 
-(isa 1979-01-01T00:00:00Z date) 
-(inGenre ShakeYourBody funk) 
-(isWrittenBy ShakeYourBody MichaelJackson) 
-(hasPublishDate ShakeYourBody 1979-01-01T00:00:00Z) 
-(inLanguage ShakeYourBody English) 
-;;; 
-
-;;; Poker Face
-(isa PokerFace song) 
-(isa 2008-09-29T00:00:00Z date) 
-(inGenre PokerFace electropop) 
-(isWrittenBy PokerFace LadyGaga) 
-(hasPublishDate PokerFace 2008-09-29T00:00:00Z) 
-(inLanguage PokerFace English) 
-;;; 
-
-;;; Waka Waka (This Time for Africa)
-(isa WakaWaka(ThisTimeforAfrica) song) 
-(isa 2010-03-11T00:00:00Z date) 
-(inGenre WakaWaka(ThisTimeforAfrica) popmusic) 
-(inGenre WakaWaka(ThisTimeforAfrica) poprock) 
-(isWrittenBy WakaWaka(ThisTimeforAfrica) Shakira) 
-(hasPublishDate WakaWaka(ThisTimeforAfrica) 2010-03-11T00:00:00Z) 
-(inLanguage WakaWaka(ThisTimeforAfrica) English) 
-;;; 
-
-;;; Firework
-(isa Firework song) 
-(isa 2010-10-26T00:00:00Z date) 
-(inGenre Firework dance-pop) 
-(inGenre Firework synth-pop) 
-(isWrittenBy Firework EsterDean) 
-(hasPublishDate Firework 2010-10-26T00:00:00Z) 
-(inLanguage Firework English) 
-;;; 
-
-;;; Telephone
-(isa Telephone song) 
-(isa 2010-02-15T00:00:00Z date) 
-(inGenre Telephone electropop) 
-(inGenre Telephone dance-pop) 
-(isWrittenBy Telephone LadyGaga) 
-(hasPublishDate Telephone 2010-02-15T00:00:00Z) 
-(inLanguage Telephone AmericanEnglish) 
-;;; 
-
-;;; Eh, Eh (Nothing Else I Can Say)
-(isa Eh,Eh(NothingElseICanSay) song) 
-(isa 2009-01-10T00:00:00Z date) 
-(inGenre Eh,Eh(NothingElseICanSay) electropop) 
-(inGenre Eh,Eh(NothingElseICanSay) synth-pop) 
-(isWrittenBy Eh,Eh(NothingElseICanSay) LadyGaga) 
-(hasPublishDate Eh,Eh(NothingElseICanSay) 2009-01-10T00:00:00Z) 
-(inLanguage Eh,Eh(NothingElseICanSay) English) 
-;;; 
-
-;;; Beautiful, Dirty, Rich
-(isa Beautiful,Dirty,Rich song) 
-(isa 2008-09-16T00:00:00Z date) 
-(inGenre Beautiful,Dirty,Rich dance-pop) 
-(inGenre Beautiful,Dirty,Rich synth-pop) 
-(isWrittenBy Beautiful,Dirty,Rich LadyGaga) 
-(hasPublishDate Beautiful,Dirty,Rich 2008-09-16T00:00:00Z) 
-(inLanguage Beautiful,Dirty,Rich English) 
-;;; 
-
-;;; Under Pressure
-(isa UnderPressure song) 
-(isa 1981-10-26T00:00:00Z date) 
-(inGenre UnderPressure rockandroll) 
-(isWrittenBy UnderPressure DavidBowie) 
-(hasPublishDate UnderPressure 1981-10-26T00:00:00Z) 
-(inLanguage UnderPressure English) 
-;;; 
-
-;;; Christmas Tree
-(isa ChristmasTree song) 
-(isa 2008-12-16T00:00:00Z date) 
-(inGenre ChristmasTree dance-pop) 
-(isWrittenBy ChristmasTree LadyGaga) 
-(hasPublishDate ChristmasTree 2008-12-16T00:00:00Z) 
-(inLanguage ChristmasTree English) 
-;;; 
-
-;;; Pas sans toi
-(isa Passanstoi song) 
-(isa 2005-01-01T00:00:00Z date) 
-(inGenre Passanstoi contemporaryR&B) 
-(isWrittenBy Passanstoi M.Pokora) 
-(hasPublishDate Passanstoi 2005-01-01T00:00:00Z) 
-(inLanguage Passanstoi French) 
-;;; 
-
-;;; Walking to New Orleans
-(isa WalkingtoNewOrleans song) 
-(isa 1960-06-01T00:00:00Z date) 
-(inGenre WalkingtoNewOrleans rhythmandblues) 
-(isWrittenBy WalkingtoNewOrleans FatsDomino) 
-(hasPublishDate WalkingtoNewOrleans 1960-06-01T00:00:00Z) 
-(inLanguage WalkingtoNewOrleans English) 
-;;; 
-
-;;; Qui t'a dit ?
-(isa Quit'adit? song) 
-(isa 2011-03-12T00:00:00Z date) 
-(inGenre Quit'adit? rap) 
-(isWrittenBy Quit'adit? BlackM) 
-(hasPublishDate Quit'adit? 2011-03-12T00:00:00Z) 
-(inLanguage Quit'adit? French) 
-;;; 
-
-;;; Sauver l'amour
-(isa Sauverl'amour song) 
-(isa 1986-03-18T00:00:00Z date) 
-(inGenre Sauverl'amour popmusic) 
-(isWrittenBy Sauverl'amour DanielBalavoine) 
-(hasPublishDate Sauverl'amour 1986-03-18T00:00:00Z) 
-(inLanguage Sauverl'amour French) 
-;;; 
-
-;;; Allumer le Feu
-(isa AllumerleFeu song) 
-(isa 1998-06-01T00:00:00Z date) 
-(inGenre AllumerleFeu rockmusic) 
-(isWrittenBy AllumerleFeu Zazie) 
-(hasPublishDate AllumerleFeu 1998-06-01T00:00:00Z) 
-(inLanguage AllumerleFeu French) 
-;;; 
-
-;;; Avec toi
-(isa Avectoi song) 
-(isa 2012-01-01T00:00:00Z date) 
-(inGenre Avectoi popmusic) 
-(isWrittenBy Avectoi AxelTony) 
-(hasPublishDate Avectoi 2012-01-01T00:00:00Z) 
-(inLanguage Avectoi French) 
-;;; 
-
-;;; C'est la ouate
-(isa C'estlaouate song) 
-(isa 1986-10-01T00:00:00Z date) 
-(inGenre C'estlaouate popmusic) 
-(isWrittenBy C'estlaouate CarolineLoeb) 
-(hasPublishDate C'estlaouate 1986-10-01T00:00:00Z) 
-(inLanguage C'estlaouate French) 
-;;; 
-
-;;; Double je
-(isa Doubleje song) 
-(isa 2007-05-25T00:00:00Z date) 
-(inGenre Doubleje popmusic) 
-(isWrittenBy Doubleje Zazie) 
-(hasPublishDate Doubleje 2007-05-25T00:00:00Z) 
-(inLanguage Doubleje French) 
-;;; 
-
-;;; Vivre ou survivre
-(isa Vivreousurvivre song) 
-(isa 1982-04-01T00:00:00Z date) 
-(inGenre Vivreousurvivre poprock) 
-(isWrittenBy Vivreousurvivre DanielBalavoine) 
-(hasPublishDate Vivreousurvivre 1982-04-01T00:00:00Z) 
-(inLanguage Vivreousurvivre French) 
-;;; 
-
-;;; When Love Breaks Down
-(isa WhenLoveBreaksDown song) 
-(isa 1984-01-01T00:00:00Z date) 
-(inGenre WhenLoveBreaksDown synth-pop) 
-(isWrittenBy WhenLoveBreaksDown PaddyMcAloon) 
-(hasPublishDate WhenLoveBreaksDown 1984-01-01T00:00:00Z) 
-(inLanguage WhenLoveBreaksDown English) 
-;;; 
-
-;;; Girls & Boys
-(isa Girls&Boys song) 
-(isa 1986-08-04T00:00:00Z date) 
-(inGenre Girls&Boys funk) 
-(isWrittenBy Girls&Boys Prince) 
-(hasPublishDate Girls&Boys 1986-08-04T00:00:00Z) 
-(inLanguage Girls&Boys English) 
-;;; 
-
-;;; Happy Xmas (War Is Over)
-(isa HappyXmas(WarIsOver) song) 
-(isa 1971-12-01T00:00:00Z date) 
-(inGenre HappyXmas(WarIsOver) rockmusic) 
-(inGenre HappyXmas(WarIsOver) popmusic) 
-(inGenre HappyXmas(WarIsOver) Christmasmusic) 
-(isWrittenBy HappyXmas(WarIsOver) YokoOno) 
-(hasPublishDate HappyXmas(WarIsOver) 1971-12-01T00:00:00Z) 
-(inLanguage HappyXmas(WarIsOver) English) 
-;;; 
-
-;;; La Isla Bonita
-(isa LaIslaBonita song) 
-(isa 1987-02-25T00:00:00Z date) 
-(inGenre LaIslaBonita Latinpop) 
-(isWrittenBy LaIslaBonita Madonna) 
-(hasPublishDate LaIslaBonita 1987-02-25T00:00:00Z) 
-(inLanguage LaIslaBonita English) 
-;;; 
-
-;;; Wonderland
-(isa Wonderland song) 
-(isa 2011-04-04T00:00:00Z date) 
-(inGenre Wonderland synth-pop) 
-(isWrittenBy Wonderland TeddySinclair) 
-(hasPublishDate Wonderland 2011-04-04T00:00:00Z) 
-(inLanguage Wonderland English) 
-;;; 
-
-;;; For Whom the Bell Tolls
-(isa ForWhomtheBellTolls song) 
-(isa 1984-01-01T00:00:00Z date) 
-(inGenre ForWhomtheBellTolls protestsong) 
-(isWrittenBy ForWhomtheBellTolls Metallica) 
-(hasPublishDate ForWhomtheBellTolls 1984-01-01T00:00:00Z) 
-(inLanguage ForWhomtheBellTolls English) 
-;;; 
-
-;;; Hung Up
-(isa HungUp song) 
-(isa 2005-10-18T00:00:00Z date) 
-(inGenre HungUp dance-pop) 
-(isWrittenBy HungUp Madonna) 
-(hasPublishDate HungUp 2005-10-18T00:00:00Z) 
-(inLanguage HungUp English) 
-;;; 
-
-;;; You Know You're Right
-(isa YouKnowYou'reRight song) 
-(isa 2002-10-08T00:00:00Z date) 
-(inGenre YouKnowYou'reRight grunge) 
-(isWrittenBy YouKnowYou'reRight Nirvana) 
-(hasPublishDate YouKnowYou'reRight 2002-10-08T00:00:00Z) 
-(inLanguage YouKnowYou'reRight English) 
-;;; 
-
-;;; Like a Prayer
-(isa LikeaPrayer song) 
-(isa 1989-03-03T00:00:00Z date) 
-(inGenre LikeaPrayer popmusic) 
-(isWrittenBy LikeaPrayer Madonna) 
-(hasPublishDate LikeaPrayer 1989-03-03T00:00:00Z) 
-(inLanguage LikeaPrayer English) 
-;;; 
-
-;;; Kiss
-(isa Kiss song) 
-(isa 1986-02-05T00:00:00Z date) 
-(inGenre Kiss funk) 
-(isWrittenBy Kiss Prince) 
-(hasPublishDate Kiss 1986-02-05T00:00:00Z) 
-(inLanguage Kiss English) 
-;;; 
-
-;;; Forever Young
-(isa ForeverYoung song) 
-(isa 1979-06-22T00:00:00Z date) 
-(inGenre ForeverYoung rockmusic) 
-(isWrittenBy ForeverYoung BobDylan) 
-(hasPublishDate ForeverYoung 1979-06-22T00:00:00Z) 
-(inLanguage ForeverYoung English) 
-;;; 
-
-;;; Just the Way You Are
-(isa JusttheWayYouAre song) 
-(isa 1977-01-01T00:00:00Z date) 
-(inGenre JusttheWayYouAre popmusic) 
-(isWrittenBy JusttheWayYouAre BillyJoel) 
-(hasPublishDate JusttheWayYouAre 1977-01-01T00:00:00Z) 
-(inLanguage JusttheWayYouAre English) 
-;;; 
-
-;;; Living for Love
-(isa LivingforLove song) 
-(isa 2014-12-20T00:00:00Z date) 
-(inGenre LivingforLove electronicdancemusic) 
-(isWrittenBy LivingforLove Madonna) 
-(hasPublishDate LivingforLove 2014-12-20T00:00:00Z) 
-(inLanguage LivingforLove English) 
-;;; 
-
-;;; Ghosttown
-(isa Ghosttown song) 
-(isa 2015-03-13T00:00:00Z date) 
-(inGenre Ghosttown popmusic) 
-(isWrittenBy Ghosttown Madonna) 
-(hasPublishDate Ghosttown 2015-03-13T00:00:00Z) 
-(inLanguage Ghosttown English) 
-;;; 
-
-;;; Bitch I'm Madonna
-(isa BitchI'mMadonna song) 
-(isa 2015-06-15T00:00:00Z date) 
-(inGenre BitchI'mMadonna electronicdancemusic) 
-(isWrittenBy BitchI'mMadonna Madonna) 
-(hasPublishDate BitchI'mMadonna 2015-06-15T00:00:00Z) 
-(inLanguage BitchI'mMadonna English) 
-;;; 
-
-;;; Addicted to You
-(isa AddictedtoYou song) 
-(isa 2013-11-27T00:00:00Z date) 
-(inGenre AddictedtoYou vocalhouse) 
-(isWrittenBy AddictedtoYou Avicii) 
-(hasPublishDate AddictedtoYou 2013-11-27T00:00:00Z) 
-(inLanguage AddictedtoYou English) 
-;;; 
-
-;;; Invisible
-(isa Invisible song) 
-(isa 2014-02-02T00:00:00Z date) 
-(inGenre Invisible rockmusic) 
-(isWrittenBy Invisible U2) 
-(hasPublishDate Invisible 2014-02-02T00:00:00Z) 
-(inLanguage Invisible English) 
-;;; 
-
-;;; Mirage
-(isa Mirage song) 
-(isa 2010-11-22T00:00:00Z date) 
-(inGenre Mirage electropop) 
-(isWrittenBy Mirage M.Pokora) 
-(hasPublishDate Mirage 2010-11-22T00:00:00Z) 
-(inLanguage Mirage French) 
-;;; 
-
-;;; À ma place
-(isa Àmaplace song) 
-(isa 2001-05-07T00:00:00Z date) 
-(inGenre Àmaplace popmusic) 
-(isWrittenBy Àmaplace Zazie) 
-(hasPublishDate Àmaplace 2001-05-07T00:00:00Z) 
-(inLanguage Àmaplace French) 
-;;; 
-
-;;; In My Secret Life
-(isa InMySecretLife song) 
-(isa 2001-01-01T00:00:00Z date) 
-(inGenre InMySecretLife folkrock) 
-(isWrittenBy InMySecretLife LeonardCohen) 
-(hasPublishDate InMySecretLife 2001-01-01T00:00:00Z) 
-(inLanguage InMySecretLife English) 
-;;; 
-
-;;; L.A. Woman
-(isa L.A.Woman song) 
-(isa 1971-04-19T00:00:00Z date) 
-(inGenre L.A.Woman bluesrock) 
-(isWrittenBy L.A.Woman JimMorrison) 
-(hasPublishDate L.A.Woman 1971-04-19T00:00:00Z) 
-(inLanguage L.A.Woman English) 
-;;; 
-
-;;; Breaking News
-(isa BreakingNews song) 
-(isa 2010-01-01T00:00:00Z date) 
-(inGenre BreakingNews contemporaryR&B) 
-(isWrittenBy BreakingNews MichaelJackson) 
-(hasPublishDate BreakingNews 2010-01-01T00:00:00Z) 
-(inLanguage BreakingNews English) 
-;;; 
-
-;;; My Love
-(isa MyLove song) 
-(isa 2014-02-28T00:00:00Z date) 
-(inGenre MyLove deephouse) 
-(isWrittenBy MyLove JessGlynne) 
-(hasPublishDate MyLove 2014-02-28T00:00:00Z) 
-(inLanguage MyLove English) 
-;;; 
-
-;;; I Wanna Know
-(isa IWannaKnow song) 
-(isa 2016-09-30T00:00:00Z date) 
-(inGenre IWannaKnow electronicdancemusic) 
-(isWrittenBy IWannaKnow JolinTsai) 
-(hasPublishDate IWannaKnow 2016-09-30T00:00:00Z) 
-(inLanguage IWannaKnow English) 
-;;; 
-
-;;; Friends
-(isa Friends song) 
-(isa 2017-08-17T00:00:00Z date) 
-(inGenre Friends popmusic) 
-(inGenre Friends dance-pop) 
-(inGenre Friends electro) 
-(isWrittenBy Friends JustinBieber) 
-(hasPublishDate Friends 2017-08-17T00:00:00Z) 
-(inLanguage Friends English) 
-;;; 
-
-;;; The Price of Fame
-(isa ThePriceofFame song) 
-(isa 2010-03-24T00:00:00Z date) 
-(inGenre ThePriceofFame popmusic) 
-(isWrittenBy ThePriceofFame MarcellusLong) 
-(hasPublishDate ThePriceofFame 2010-03-24T00:00:00Z) 
-(inLanguage ThePriceofFame English) 
-;;; 
-
-;;; Bim bam toi
-(isa Bimbamtoi song) 
-(isa 2019-10-11T00:00:00Z date) 
-(inGenre Bimbamtoi popmusic) 
-(inGenre Bimbamtoi electropop) 
-(inGenre Bimbamtoi chanson) 
-(isWrittenBy Bimbamtoi BarbaraPravi) 
-(hasPublishDate Bimbamtoi 2019-10-11T00:00:00Z) 
-(inLanguage Bimbamtoi French) 
-;;; 
-
-;;; Verlierer
-(isa Verlierer song) 
-(isa 2020-11-27T00:00:00Z date) 
-(inGenre Verlierer popmusic) 
-(isWrittenBy Verlierer Luna) 
-(hasPublishDate Verlierer 2020-11-27T00:00:00Z) 
-(inLanguage Verlierer German) 
-;;; 
-
-;;; The Spirit of Knight
-(isa TheSpiritofKnight song) 
-(isa 2002-07-22T00:00:00Z date) 
-(inGenre TheSpiritofKnight popmusic) 
-(isWrittenBy TheSpiritofKnight JolinTsai) 
-(hasPublishDate TheSpiritofKnight 2002-07-22T00:00:00Z) 
-(inLanguage TheSpiritofKnight Chinese) 
-;;; 
-
-;;; The Healer
-(isa TheHealer song) 
-(isa 1989-01-01T00:00:00Z date) 
-(inGenre TheHealer blues) 
-(inGenre TheHealer Latinrock) 
-(isWrittenBy TheHealer JohnLeeHooker) 
-(hasPublishDate TheHealer 1989-01-01T00:00:00Z) 
-(inLanguage TheHealer English) 
-;;; 
-
-;;; Piece by Piece
-(isa PiecebyPiece song) 
-(isa 2005-01-01T00:00:00Z date) 
-(inGenre PiecebyPiece blues) 
-(inGenre PiecebyPiece popmusic) 
-(inGenre PiecebyPiece countrymusic) 
-(isWrittenBy PiecebyPiece KatieMelua) 
-(hasPublishDate PiecebyPiece 2005-01-01T00:00:00Z) 
-(inLanguage PiecebyPiece BritishEnglish) 
-;;; 
-
-;;; Baby
-(isa Baby song) 
-(isa 2018-11-02T00:00:00Z date) 
-(inGenre Baby electronicmusic) 
-(inGenre Baby Latinpop) 
-(isWrittenBy Baby MarinaDiamandis) 
-(hasPublishDate Baby 2018-11-02T00:00:00Z) 
-(inLanguage Baby Spanish) 
-;;; 
-
-;;; One Touch
-(isa OneTouch song) 
-(isa 2019-05-24T00:00:00Z date) 
-(inGenre OneTouch housemusic) 
-(isWrittenBy OneTouch JessGlynne) 
-(hasPublishDate OneTouch 2019-05-24T00:00:00Z) 
-(inLanguage OneTouch English) 
-;;; 
-
-;;; 10,000 Hours
-(isa 10,000Hours song) 
-(isa 2019-10-04T00:00:00Z date) 
-(inGenre 10,000Hours popmusic) 
-(inGenre 10,000Hours countrypop) 
-(isWrittenBy 10,000Hours JustinBieber) 
-(hasPublishDate 10,000Hours 2019-10-04T00:00:00Z) 
-(inLanguage 10,000Hours English) 
-;;; 
-
 (isa electronicmusic genre) 
 (isa reggae genre) 
 (isa popmusic genre) 
@@ -950,6 +14,8 @@
 (isa popularmusic genre) 
 (isa rockandroll genre) 
 (isa countryrock genre) 
+(isa electro genre) 
+(isa newagemusic genre) 
 (isa musicofLatinAmerica genre) 
 (isa hardrock genre) 
 (isa psychedelicrock genre) 
@@ -958,45 +24,43 @@
 (isa spacerock genre) 
 (isa electronicdancemusic genre) 
 (isa lowercase genre) 
-(isa electro genre) 
-(isa newagemusic genre) 
 (isa post-punk genre) 
 (isa contemporaryR&B genre) 
 (isa bluesrock genre) 
-(isa Frenchrock genre) 
 (isa rockmusic genre) 
 (isa Eurodance genre) 
+(isa Frenchrock genre) 
 (isa comedyrock genre) 
 (isa ambientmusic genre) 
 (isa middleoftheroad genre) 
 (isa rap genre) 
-(isa protestsong genre) 
 (isa Christmasmusic genre) 
 (isa Latinpop genre) 
 (isa hiphopmusic genre) 
+(isa protestsong genre) 
+(isa grunge genre) 
 (isa acousticmusic genre) 
 (isa newwave genre) 
 (isa vocalhouse genre) 
 (isa techno genre) 
-(isa grunge genre) 
 (isa gangstarap genre) 
 (isa crunk genre) 
 (isa glamrock genre) 
 (isa teenpop genre) 
-(isa electrohouse genre) 
-(isa westernclassicalmusic genre) 
+(isa dubstep genre) 
+(isa dancehall genre) 
 (isa disco genre) 
+(isa westernclassicalmusic genre) 
 (isa poprap genre) 
 (isa trapmusic genre) 
 (isa electronicrock genre) 
+(isa electrohouse genre) 
 (isa progressivehouse genre) 
 (isa deephouse genre) 
-(isa dubstep genre) 
-(isa dancehall genre) 
 (isa blues genre) 
 (isa Latinrock genre) 
-(isa Frenchhiphop genre) 
 (isa countrymusic genre) 
+(isa Frenchhiphop genre) 
 (isa countrypop genre) 
 (isa chanson genre) 
 (isa Ne-Yo musician) 
@@ -1113,23 +177,6 @@
 (isa EsterDean musician) 
 (influencedBy EsterDean NickiMinaj) 
 (isa NickiMinaj musician) 
-(isa JohnLydon musician) 
-(influencedBy JohnLydon AliceCooper) 
-(isa AliceCooper musician) 
-(isa RayManzarek musician) 
-(influencedBy RayManzarek JackKerouac) 
-(isa JackKerouac musician) 
-(isa KTTunstall musician) 
-(influencedBy KTTunstall DavidBowie) 
-(isa Björk musician) 
-(influencedBy Björk KateBush) 
-(influencedBy Björk KarlheinzStockhausen) 
-(influencedBy Björk NinaHagen) 
-(influencedBy Björk ZeenaParkins) 
-(isa KateBush musician) 
-(isa KarlheinzStockhausen musician) 
-(isa NinaHagen musician) 
-(isa ZeenaParkins musician) 
 (isa StevieWonder musician) 
 (isa JimiHendrix musician) 
 (influencedBy JimiHendrix BobDylan) 
@@ -1152,6 +199,23 @@
 (isa Enya musician) 
 (influencedBy Enya BrianEno) 
 (isa BrianEno musician) 
+(isa JohnLydon musician) 
+(influencedBy JohnLydon AliceCooper) 
+(isa AliceCooper musician) 
+(isa RayManzarek musician) 
+(influencedBy RayManzarek JackKerouac) 
+(isa JackKerouac musician) 
+(isa KTTunstall musician) 
+(influencedBy KTTunstall DavidBowie) 
+(isa Björk musician) 
+(influencedBy Björk KateBush) 
+(influencedBy Björk KarlheinzStockhausen) 
+(influencedBy Björk NinaHagen) 
+(influencedBy Björk ZeenaParkins) 
+(isa KateBush musician) 
+(isa KarlheinzStockhausen musician) 
+(isa NinaHagen musician) 
+(isa ZeenaParkins musician) 
 (isa IanCurtis musician) 
 (influencedBy IanCurtis High-Rise) 
 (isa High-Rise musician) 
@@ -1169,17 +233,6 @@
 (isa ChuckBerry musician) 
 (isa TheWho musician) 
 (isa Cream musician) 
-(isa DamienSaez musician) 
-(influencedBy DamienSaez JacquesBrel) 
-(isa JacquesBrel musician) 
-(isa ManuChao musician) 
-(influencedBy ManuChao BobMarley) 
-(influencedBy ManuChao GeorgesBrassens) 
-(influencedBy ManuChao ChuckBerry) 
-(influencedBy ManuChao CamaróndelaIsla) 
-(isa BobMarley musician) 
-(isa GeorgesBrassens musician) 
-(isa CamaróndelaIsla musician) 
 (isa BritneySpears musician) 
 (influencedBy BritneySpears Madonna) 
 (influencedBy BritneySpears MichaelJackson) 
@@ -1193,8 +246,28 @@
 (isa Dido musician) 
 (influencedBy Dido 10,000Maniacs) 
 (isa 10,000Maniacs musician) 
+(isa ManuChao musician) 
+(influencedBy ManuChao BobMarley) 
+(influencedBy ManuChao GeorgesBrassens) 
+(influencedBy ManuChao ChuckBerry) 
+(influencedBy ManuChao CamaróndelaIsla) 
+(isa BobMarley musician) 
+(isa GeorgesBrassens musician) 
+(isa CamaróndelaIsla musician) 
+(isa "WeirdAl"Yankovic musician) 
+(influencedBy "WeirdAl"Yankovic AllanSherman) 
+(isa AllanSherman musician) 
+(isa NolwennLeroy musician) 
+(influencedBy NolwennLeroy AlanStivell) 
+(isa AlanStivell musician) 
+(isa FatsDomino musician) 
+(influencedBy FatsDomino AmosMilburn) 
+(isa AmosMilburn musician) 
+(isa BlackM musician) 
+(influencedBy BlackM MichaelJackson) 
 (isa Zazie musician) 
 (influencedBy Zazie JacquesBrel) 
+(isa JacquesBrel musician) 
 (isa AxelTony musician) 
 (influencedBy AxelTony BoyzIIMen) 
 (isa BoyzIIMen musician) 
@@ -1211,17 +284,18 @@
 (isa GrégoryLemarchal musician) 
 (influencedBy GrégoryLemarchal SergeLama) 
 (isa SergeLama musician) 
-(isa "WeirdAl"Yankovic musician) 
-(influencedBy "WeirdAl"Yankovic AllanSherman) 
-(isa AllanSherman musician) 
-(isa NolwennLeroy musician) 
-(influencedBy NolwennLeroy AlanStivell) 
-(isa AlanStivell musician) 
-(isa FatsDomino musician) 
-(influencedBy FatsDomino AmosMilburn) 
-(isa AmosMilburn musician) 
-(isa BlackM musician) 
-(influencedBy BlackM MichaelJackson) 
+(isa DamienSaez musician) 
+(influencedBy DamienSaez JacquesBrel) 
+(isa YokoOno musician) 
+(influencedBy YokoOno AllanKaprow) 
+(isa AllanKaprow musician) 
+(isa Metallica musician) 
+(influencedBy Metallica Motörhead) 
+(influencedBy Metallica BlackSabbath) 
+(influencedBy Metallica DiamondHead) 
+(isa Motörhead musician) 
+(isa BlackSabbath musician) 
+(isa DiamondHead musician) 
 (isa DanielBalavoine musician) 
 (influencedBy DanielBalavoine BobDylan) 
 (influencedBy DanielBalavoine LedZeppelin) 
@@ -1253,21 +327,6 @@
 (isa PaddyMcAloon musician) 
 (influencedBy PaddyMcAloon StephenSondheim) 
 (isa StephenSondheim musician) 
-(isa YokoOno musician) 
-(influencedBy YokoOno AllanKaprow) 
-(isa AllanKaprow musician) 
-(isa Metallica musician) 
-(influencedBy Metallica Motörhead) 
-(influencedBy Metallica BlackSabbath) 
-(influencedBy Metallica DiamondHead) 
-(isa Motörhead musician) 
-(isa BlackSabbath musician) 
-(isa DiamondHead musician) 
-(isa Hopsin musician) 
-(influencedBy Hopsin Eminem) 
-(isa Eminem musician) 
-(isa U2 musician) 
-(influencedBy U2 PinkFloyd) 
 (isa Nirvana musician) 
 (influencedBy Nirvana LedZeppelin) 
 (influencedBy Nirvana BlackSabbath) 
@@ -1300,6 +359,11 @@
 (isa LuisitoComunica musician) 
 (isa BillyJoel musician) 
 (influencedBy BillyJoel TheBeatles) 
+(isa Hopsin musician) 
+(influencedBy Hopsin Eminem) 
+(isa Eminem musician) 
+(isa U2 musician) 
+(influencedBy U2 PinkFloyd) 
 (isa JustinBieber musician) 
 (influencedBy JustinBieber StevieWonder) 
 (influencedBy JustinBieber TheBeatles) 
@@ -1322,14 +386,6 @@
 (isa JuicyJ musician) 
 (influencedBy JuicyJ Three6Mafia) 
 (isa Three6Mafia musician) 
-(isa Kerli musician) 
-(influencedBy Kerli Björk) 
-(isa LeonardCohen musician) 
-(influencedBy LeonardCohen FedericoGarcíaLorca) 
-(isa FedericoGarcíaLorca musician) 
-(isa LaraFabian musician) 
-(influencedBy LaraFabian CelineDion) 
-(isa CelineDion musician) 
 (isa AdamLevine musician) 
 (influencedBy AdamLevine StevieWonder) 
 (isa TrinidadJames musician) 
@@ -1337,6 +393,9 @@
 (isa Cam'ron musician) 
 (isa JessieWare musician) 
 (influencedBy JessieWare KateBush) 
+(isa LaraFabian musician) 
+(influencedBy LaraFabian CelineDion) 
+(isa CelineDion musician) 
 (isa SarahMcLachlan musician) 
 (influencedBy SarahMcLachlan JoniMitchell) 
 (isa JohnCale musician) 
@@ -1352,6 +411,13 @@
 (isa IannisXenakis musician) 
 (isa MortonFeldman musician) 
 (isa LaMonteYoung musician) 
+(isa EllieGoulding musician) 
+(influencedBy EllieGoulding KateBush) 
+(isa Kerli musician) 
+(influencedBy Kerli Björk) 
+(isa LeonardCohen musician) 
+(influencedBy LeonardCohen FedericoGarcíaLorca) 
+(isa FedericoGarcíaLorca musician) 
 (isa DimitriVegas&LikeMike musician) 
 (influencedBy DimitriVegas&LikeMike SteveAoki) 
 (isa SteveAoki musician) 
@@ -1370,8 +436,6 @@
 (isa LutherVandross musician) 
 (isa JessGlynne musician) 
 (influencedBy JessGlynne AmyWinehouse) 
-(isa EllieGoulding musician) 
-(influencedBy EllieGoulding KateBush) 
 (isa MarcellusLong musician) 
 (influencedBy MarcellusLong JustinTimberlake) 
 (influencedBy MarcellusLong Usher) 
@@ -1387,11 +451,11 @@
 (isa JohnLeeHooker musician) 
 (influencedBy JohnLeeHooker BlindLemonJefferson) 
 (isa BlindLemonJefferson musician) 
+(isa KatieMelua musician) 
+(influencedBy KatieMelua Queen) 
 (isa Vald musician) 
 (influencedBy Vald Alkpote) 
 (isa Alkpote musician) 
-(isa KatieMelua musician) 
-(influencedBy KatieMelua Queen) 
 (isa BarbaraPravi musician) 
 (influencedBy BarbaraPravi ÉdithPiaf) 
 (influencedBy BarbaraPravi JacquesBrel) 
@@ -1580,6 +644,54 @@
 (hasPublishDate Eh,Eh(NothingElseICanSay) 2009-01-10T00:00:00Z) 
 ;;; 
 
+;;; Nothing Compares 2 U
+(isa NothingCompares2U song) 
+(isa 1990-01-08T00:00:00Z date) 
+(inGenre NothingCompares2U popmusic) 
+(isWrittenBy NothingCompares2U Prince) 
+(hasPublishDate NothingCompares2U 1990-01-08T00:00:00Z) 
+;;; 
+
+;;; All Night Long
+(isa AllNightLong song) 
+(isa 1983-08-31T00:00:00Z date) 
+(inGenre AllNightLong popmusic) 
+(isWrittenBy AllNightLong LionelRichie) 
+(hasPublishDate AllNightLong 1983-08-31T00:00:00Z) 
+;;; 
+
+;;; Good Feeling
+(isa GoodFeeling song) 
+(isa 2011-08-29T00:00:00Z date) 
+(inGenre GoodFeeling electro) 
+(isWrittenBy GoodFeeling Avicii) 
+(hasPublishDate GoodFeeling 2011-08-29T00:00:00Z) 
+;;; 
+
+;;; We Are the World 25 for Haiti
+(isa WeAretheWorld25forHaiti song) 
+(isa 2010-02-12T00:00:00Z date) 
+(inGenre WeAretheWorld25forHaiti popmusic) 
+(isWrittenBy WeAretheWorld25forHaiti LionelRichie) 
+(hasPublishDate WeAretheWorld25forHaiti 2010-02-12T00:00:00Z) 
+;;; 
+
+;;; Dance in the Dark
+(isa DanceintheDark song) 
+(isa 2010-07-26T00:00:00Z date) 
+(inGenre DanceintheDark synth-pop) 
+(isWrittenBy DanceintheDark LadyGaga) 
+(hasPublishDate DanceintheDark 2010-07-26T00:00:00Z) 
+;;; 
+
+;;; Caribbean Blue
+(isa CaribbeanBlue song) 
+(isa 1991-10-07T00:00:00Z date) 
+(inGenre CaribbeanBlue newagemusic) 
+(isWrittenBy CaribbeanBlue Enya) 
+(hasPublishDate CaribbeanBlue 1991-10-07T00:00:00Z) 
+;;; 
+
 ;;; Te Amo
 (isa TeAmo song) 
 (isa 2010-06-11T00:00:00Z date) 
@@ -1669,54 +781,6 @@
 (hasPublishDate MilesAway 2008-11-01T00:00:00Z) 
 ;;; 
 
-;;; Nothing Compares 2 U
-(isa NothingCompares2U song) 
-(isa 1990-01-08T00:00:00Z date) 
-(inGenre NothingCompares2U popmusic) 
-(isWrittenBy NothingCompares2U Prince) 
-(hasPublishDate NothingCompares2U 1990-01-08T00:00:00Z) 
-;;; 
-
-;;; All Night Long
-(isa AllNightLong song) 
-(isa 1983-08-31T00:00:00Z date) 
-(inGenre AllNightLong popmusic) 
-(isWrittenBy AllNightLong LionelRichie) 
-(hasPublishDate AllNightLong 1983-08-31T00:00:00Z) 
-;;; 
-
-;;; Good Feeling
-(isa GoodFeeling song) 
-(isa 2011-08-29T00:00:00Z date) 
-(inGenre GoodFeeling electro) 
-(isWrittenBy GoodFeeling Avicii) 
-(hasPublishDate GoodFeeling 2011-08-29T00:00:00Z) 
-;;; 
-
-;;; We Are the World 25 for Haiti
-(isa WeAretheWorld25forHaiti song) 
-(isa 2010-02-12T00:00:00Z date) 
-(inGenre WeAretheWorld25forHaiti popmusic) 
-(isWrittenBy WeAretheWorld25forHaiti LionelRichie) 
-(hasPublishDate WeAretheWorld25forHaiti 2010-02-12T00:00:00Z) 
-;;; 
-
-;;; Dance in the Dark
-(isa DanceintheDark song) 
-(isa 2010-07-26T00:00:00Z date) 
-(inGenre DanceintheDark synth-pop) 
-(isWrittenBy DanceintheDark LadyGaga) 
-(hasPublishDate DanceintheDark 2010-07-26T00:00:00Z) 
-;;; 
-
-;;; Caribbean Blue
-(isa CaribbeanBlue song) 
-(isa 1991-10-07T00:00:00Z date) 
-(inGenre CaribbeanBlue newagemusic) 
-(isWrittenBy CaribbeanBlue Enya) 
-(hasPublishDate CaribbeanBlue 1991-10-07T00:00:00Z) 
-;;; 
-
 ;;; Ceremony
 (isa Ceremony song) 
 (isa 1981-01-01T00:00:00Z date) 
@@ -1763,39 +827,6 @@
 (inGenre JustforOneDay housemusic) 
 (isWrittenBy JustforOneDay DavidBowie) 
 (hasPublishDate JustforOneDay 2003-01-01T00:00:00Z) 
-;;; 
-
-;;; They Talk Shit About Me
-(isa TheyTalkShitAboutMe song) 
-(isa 2008-06-09T00:00:00Z date) 
-(inGenre TheyTalkShitAboutMe contemporaryR&B) 
-(isWrittenBy TheyTalkShitAboutMe TeddySinclair) 
-(isWrittenBy TheyTalkShitAboutMe M.Pokora) 
-(hasPublishDate TheyTalkShitAboutMe 2008-06-09T00:00:00Z) 
-;;; 
-
-;;; Girls & Boys
-(isa Girls&Boys song) 
-(isa 1986-08-04T00:00:00Z date) 
-(inGenre Girls&Boys funk) 
-(isWrittenBy Girls&Boys Prince) 
-(hasPublishDate Girls&Boys 1986-08-04T00:00:00Z) 
-;;; 
-
-;;; Jeune et con
-(isa Jeuneetcon song) 
-(isa 2000-04-03T00:00:00Z date) 
-(inGenre Jeuneetcon poprock) 
-(isWrittenBy Jeuneetcon DamienSaez) 
-(hasPublishDate Jeuneetcon 2000-04-03T00:00:00Z) 
-;;; 
-
-;;; Mala Vida
-(isa MalaVida song) 
-(isa 1988-01-01T00:00:00Z date) 
-(inGenre MalaVida Frenchrock) 
-(isWrittenBy MalaVida ManuChao) 
-(hasPublishDate MalaVida 1988-01-01T00:00:00Z) 
 ;;; 
 
 ;;; Peacock
@@ -1898,76 +929,12 @@
 (hasPublishDate BirthdayCake 2011-11-01T00:00:00Z) 
 ;;; 
 
-;;; Poem to a Horse
-(isa PoemtoaHorse song) 
-(isa 2004-02-16T00:00:00Z date) 
-(inGenre PoemtoaHorse rockmusic) 
-(isWrittenBy PoemtoaHorse Shakira) 
-(hasPublishDate PoemtoaHorse 2004-02-16T00:00:00Z) 
-;;; 
-
-;;; Allumer le Feu
-(isa AllumerleFeu song) 
-(isa 1998-06-01T00:00:00Z date) 
-(inGenre AllumerleFeu rockmusic) 
-(isWrittenBy AllumerleFeu Zazie) 
-(hasPublishDate AllumerleFeu 1998-06-01T00:00:00Z) 
-;;; 
-
-;;; Automatic
-(isa Automatic song) 
-(isa 1983-01-01T00:00:00Z date) 
-(inGenre Automatic funk) 
-(isWrittenBy Automatic Prince) 
-(hasPublishDate Automatic 1983-01-01T00:00:00Z) 
-;;; 
-
-;;; Avec toi
-(isa Avectoi song) 
-(isa 2012-01-01T00:00:00Z date) 
-(inGenre Avectoi popmusic) 
-(isWrittenBy Avectoi AxelTony) 
-(hasPublishDate Avectoi 2012-01-01T00:00:00Z) 
-;;; 
-
-;;; C'est la ouate
-(isa C'estlaouate song) 
-(isa 1986-10-01T00:00:00Z date) 
-(inGenre C'estlaouate popmusic) 
-(isWrittenBy C'estlaouate CarolineLoeb) 
-(hasPublishDate C'estlaouate 1986-10-01T00:00:00Z) 
-;;; 
-
-;;; Photograph
-(isa Photograph song) 
-(isa 1973-09-24T00:00:00Z date) 
-(inGenre Photograph rockmusic) 
-(isWrittenBy Photograph GeorgeHarrison) 
-(hasPublishDate Photograph 1973-09-24T00:00:00Z) 
-;;; 
-
-;;; De temps en temps
-(isa Detempsentemps song) 
-(isa 2007-06-11T00:00:00Z date) 
-(inGenre Detempsentemps popmusic) 
-(isWrittenBy Detempsentemps GrégoryLemarchal) 
-(hasPublishDate Detempsentemps 2007-06-11T00:00:00Z) 
-;;; 
-
-;;; Destiny
-(isa Destiny song) 
-(isa 1979-01-01T00:00:00Z date) 
-(inGenre Destiny funk) 
-(isWrittenBy Destiny MichaelJackson) 
-(hasPublishDate Destiny 1979-01-01T00:00:00Z) 
-;;; 
-
-;;; Double je
-(isa Doubleje song) 
-(isa 2007-05-25T00:00:00Z date) 
-(inGenre Doubleje popmusic) 
-(isWrittenBy Doubleje Zazie) 
-(hasPublishDate Doubleje 2007-05-25T00:00:00Z) 
+;;; Mala Vida
+(isa MalaVida song) 
+(isa 1988-01-01T00:00:00Z date) 
+(inGenre MalaVida Frenchrock) 
+(isWrittenBy MalaVida ManuChao) 
+(hasPublishDate MalaVida 1988-01-01T00:00:00Z) 
 ;;; 
 
 ;;; The Saga Begins
@@ -2018,1556 +985,6 @@
 (hasPublishDate Quit'adit? 2011-03-12T00:00:00Z) 
 ;;; 
 
-;;; Sauver l'amour
-(isa Sauverl'amour song) 
-(isa 1986-03-18T00:00:00Z date) 
-(inGenre Sauverl'amour popmusic) 
-(isWrittenBy Sauverl'amour DanielBalavoine) 
-(hasPublishDate Sauverl'amour 1986-03-18T00:00:00Z) 
-;;; 
-
-;;; There but for Fortune
-(isa TherebutforFortune song) 
-(isa 1965-01-01T00:00:00Z date) 
-(inGenre TherebutforFortune protestsong) 
-(isWrittenBy TherebutforFortune PhilOchs) 
-(hasPublishDate TherebutforFortune 1965-01-01T00:00:00Z) 
-;;; 
-
-;;; Vivre ou survivre
-(isa Vivreousurvivre song) 
-(isa 1982-04-01T00:00:00Z date) 
-(inGenre Vivreousurvivre poprock) 
-(isWrittenBy Vivreousurvivre DanielBalavoine) 
-(hasPublishDate Vivreousurvivre 1982-04-01T00:00:00Z) 
-;;; 
-
-;;; Wake Up
-(isa WakeUp song) 
-(isa 2009-02-01T00:00:00Z date) 
-(inGenre WakeUp popmusic) 
-(isWrittenBy WakeUp Yanis) 
-(hasPublishDate WakeUp 2009-02-01T00:00:00Z) 
-;;; 
-
-;;; When Love Breaks Down
-(isa WhenLoveBreaksDown song) 
-(isa 1984-01-01T00:00:00Z date) 
-(inGenre WhenLoveBreaksDown synth-pop) 
-(isWrittenBy WhenLoveBreaksDown PaddyMcAloon) 
-(hasPublishDate WhenLoveBreaksDown 1984-01-01T00:00:00Z) 
-;;; 
-
-;;; Everytime
-(isa Everytime song) 
-(isa 2004-05-10T00:00:00Z date) 
-(inGenre Everytime popmusic) 
-(isWrittenBy Everytime BritneySpears) 
-(hasPublishDate Everytime 2004-05-10T00:00:00Z) 
-;;; 
-
-;;; Happy Xmas (War Is Over)
-(isa HappyXmas(WarIsOver) song) 
-(isa 1971-12-01T00:00:00Z date) 
-(inGenre HappyXmas(WarIsOver) rockmusic) 
-(inGenre HappyXmas(WarIsOver) popmusic) 
-(inGenre HappyXmas(WarIsOver) Christmasmusic) 
-(isWrittenBy HappyXmas(WarIsOver) YokoOno) 
-(hasPublishDate HappyXmas(WarIsOver) 1971-12-01T00:00:00Z) 
-;;; 
-
-;;; Break On Through
-(isa BreakOnThrough song) 
-(isa 1967-01-01T00:00:00Z date) 
-(inGenre BreakOnThrough bluesrock) 
-(inGenre BreakOnThrough psychedelicrock) 
-(isWrittenBy BreakOnThrough RayManzarek) 
-(hasPublishDate BreakOnThrough 1967-01-01T00:00:00Z) 
-;;; 
-
-;;; Do the Bartman
-(isa DotheBartman song) 
-(isa 1990-11-20T00:00:00Z date) 
-(inGenre DotheBartman popmusic) 
-(isWrittenBy DotheBartman MichaelJackson) 
-(hasPublishDate DotheBartman 1990-11-20T00:00:00Z) 
-;;; 
-
-;;; Unfaithful
-(isa Unfaithful song) 
-(isa 2006-05-02T00:00:00Z date) 
-(inGenre Unfaithful popmusic) 
-(isWrittenBy Unfaithful Ne-Yo) 
-(hasPublishDate Unfaithful 2006-05-02T00:00:00Z) 
-;;; 
-
-;;; Is It Scary
-(isa IsItScary song) 
-(isa 1997-11-08T00:00:00Z date) 
-(inGenre IsItScary rockmusic) 
-(isWrittenBy IsItScary MichaelJackson) 
-(hasPublishDate IsItScary 1997-11-08T00:00:00Z) 
-;;; 
-
-;;; La Isla Bonita
-(isa LaIslaBonita song) 
-(isa 1987-02-25T00:00:00Z date) 
-(inGenre LaIslaBonita Latinpop) 
-(isWrittenBy LaIslaBonita Madonna) 
-(hasPublishDate LaIslaBonita 1987-02-25T00:00:00Z) 
-;;; 
-
-;;; Wonderland
-(isa Wonderland song) 
-(isa 2011-04-04T00:00:00Z date) 
-(inGenre Wonderland synth-pop) 
-(isWrittenBy Wonderland TeddySinclair) 
-(hasPublishDate Wonderland 2011-04-04T00:00:00Z) 
-;;; 
-
-;;; Russian Roulette
-(isa RussianRoulette song) 
-(isa 2009-11-03T00:00:00Z date) 
-(inGenre RussianRoulette popmusic) 
-(inGenre RussianRoulette rhythmandblues) 
-(isWrittenBy RussianRoulette Ne-Yo) 
-(hasPublishDate RussianRoulette 2009-11-03T00:00:00Z) 
-;;; 
-
-;;; Hunter
-(isa Hunter song) 
-(isa 2001-09-10T00:00:00Z date) 
-(inGenre Hunter popmusic) 
-(isWrittenBy Hunter Dido) 
-(hasPublishDate Hunter 2001-09-10T00:00:00Z) 
-;;; 
-
-;;; Bye Bye Baby
-(isa ByeByeBaby song) 
-(isa 1993-11-15T00:00:00Z date) 
-(inGenre ByeByeBaby hiphopmusic) 
-(isWrittenBy ByeByeBaby Madonna) 
-(hasPublishDate ByeByeBaby 1993-11-15T00:00:00Z) 
-;;; 
-
-;;; What More Can I Give
-(isa WhatMoreCanIGive song) 
-(isa 2001-01-01T00:00:00Z date) 
-(inGenre WhatMoreCanIGive popmusic) 
-(isWrittenBy WhatMoreCanIGive MichaelJackson) 
-(hasPublishDate WhatMoreCanIGive 2001-01-01T00:00:00Z) 
-;;; 
-
-;;; For Whom the Bell Tolls
-(isa ForWhomtheBellTolls song) 
-(isa 1984-01-01T00:00:00Z date) 
-(inGenre ForWhomtheBellTolls protestsong) 
-(isWrittenBy ForWhomtheBellTolls Metallica) 
-(hasPublishDate ForWhomtheBellTolls 1984-01-01T00:00:00Z) 
-;;; 
-
-;;; Invisible Empire
-(isa InvisibleEmpire song) 
-(isa 2013-08-19T00:00:00Z date) 
-(inGenre InvisibleEmpire acousticmusic) 
-(isWrittenBy InvisibleEmpire KTTunstall) 
-(hasPublishDate InvisibleEmpire 2013-08-19T00:00:00Z) 
-;;; 
-
-;;; Can't Remember to Forget You
-(isa Can'tRemembertoForgetYou song) 
-(isa 2014-01-13T00:00:00Z date) 
-(inGenre Can'tRemembertoForgetYou newwave) 
-(isWrittenBy Can'tRemembertoForgetYou Shakira) 
-(isWrittenBy Can'tRemembertoForgetYou Rihanna) 
-(hasPublishDate Can'tRemembertoForgetYou 2014-01-13T00:00:00Z) 
-;;; 
-
-;;; Hop Is Back
-(isa HopIsBack song) 
-(isa 2013-01-01T00:00:00Z date) 
-(inGenre HopIsBack hiphopmusic) 
-(isWrittenBy HopIsBack Hopsin) 
-(hasPublishDate HopIsBack 2013-01-01T00:00:00Z) 
-;;; 
-
-;;; Addicted to You
-(isa AddictedtoYou song) 
-(isa 2013-11-27T00:00:00Z date) 
-(inGenre AddictedtoYou vocalhouse) 
-(isWrittenBy AddictedtoYou Avicii) 
-(hasPublishDate AddictedtoYou 2013-11-27T00:00:00Z) 
-;;; 
-
-;;; Invisible
-(isa Invisible song) 
-(isa 2014-02-02T00:00:00Z date) 
-(inGenre Invisible rockmusic) 
-(isWrittenBy Invisible U2) 
-(hasPublishDate Invisible 2014-02-02T00:00:00Z) 
-;;; 
-
-;;; G.U.Y.
-(isa G.U.Y. song) 
-(isa 2014-03-28T00:00:00Z date) 
-(inGenre G.U.Y. techno) 
-(inGenre G.U.Y. dance-pop) 
-(inGenre G.U.Y. synth-pop) 
-(isWrittenBy G.U.Y. LadyGaga) 
-(hasPublishDate G.U.Y. 2014-03-28T00:00:00Z) 
-;;; 
-
-;;; Hung Up
-(isa HungUp song) 
-(isa 2005-10-18T00:00:00Z date) 
-(inGenre HungUp dance-pop) 
-(isWrittenBy HungUp Madonna) 
-(hasPublishDate HungUp 2005-10-18T00:00:00Z) 
-;;; 
-
-;;; You Know You're Right
-(isa YouKnowYou'reRight song) 
-(isa 2002-10-08T00:00:00Z date) 
-(inGenre YouKnowYou'reRight grunge) 
-(isWrittenBy YouKnowYou'reRight Nirvana) 
-(hasPublishDate YouKnowYou'reRight 2002-10-08T00:00:00Z) 
-;;; 
-
-;;; Hurricane
-(isa Hurricane song) 
-(isa 1975-11-01T00:00:00Z date) 
-(inGenre Hurricane protestsong) 
-(isWrittenBy Hurricane BobDylan) 
-(hasPublishDate Hurricane 1975-11-01T00:00:00Z) 
-;;; 
-
-;;; Like a Prayer
-(isa LikeaPrayer song) 
-(isa 1989-03-03T00:00:00Z date) 
-(inGenre LikeaPrayer popmusic) 
-(isWrittenBy LikeaPrayer Madonna) 
-(hasPublishDate LikeaPrayer 1989-03-03T00:00:00Z) 
-;;; 
-
-;;; Kiss
-(isa Kiss song) 
-(isa 1986-02-05T00:00:00Z date) 
-(inGenre Kiss funk) 
-(isWrittenBy Kiss Prince) 
-(hasPublishDate Kiss 1986-02-05T00:00:00Z) 
-;;; 
-
-;;; Forever Young
-(isa ForeverYoung song) 
-(isa 1979-06-22T00:00:00Z date) 
-(inGenre ForeverYoung rockmusic) 
-(isWrittenBy ForeverYoung BobDylan) 
-(hasPublishDate ForeverYoung 1979-06-22T00:00:00Z) 
-;;; 
-
-;;; Thank You
-(isa ThankYou song) 
-(isa 2000-12-12T00:00:00Z date) 
-(inGenre ThankYou popmusic) 
-(isWrittenBy ThankYou Dido) 
-(hasPublishDate ThankYou 2000-12-12T00:00:00Z) 
-;;; 
-
-;;; I Miss You
-(isa IMissYou song) 
-(isa 2007-01-01T00:00:00Z date) 
-(inGenre IMissYou popmusic) 
-(isWrittenBy IMissYou MileyCyrus) 
-(hasPublishDate IMissYou 2007-01-01T00:00:00Z) 
-;;; 
-
-;;; Just the Way You Are
-(isa JusttheWayYouAre song) 
-(isa 1977-01-01T00:00:00Z date) 
-(inGenre JusttheWayYouAre popmusic) 
-(isWrittenBy JusttheWayYouAre BillyJoel) 
-(hasPublishDate JusttheWayYouAre 1977-01-01T00:00:00Z) 
-;;; 
-
-;;; Boyfriend
-(isa Boyfriend song) 
-(isa 2012-03-01T00:00:00Z date) 
-(inGenre Boyfriend contemporaryR&B) 
-(isWrittenBy Boyfriend JustinBieber) 
-(hasPublishDate Boyfriend 2012-03-01T00:00:00Z) 
-;;; 
-
-;;; People Are Strange
-(isa PeopleAreStrange song) 
-(isa 1967-09-01T00:00:00Z date) 
-(inGenre PeopleAreStrange psychedelicrock) 
-(isWrittenBy PeopleAreStrange JimMorrison) 
-(hasPublishDate PeopleAreStrange 1967-09-01T00:00:00Z) 
-;;; 
-
-;;; Ode to My Family
-(isa OdetoMyFamily song) 
-(isa 1994-11-21T00:00:00Z date) 
-(inGenre OdetoMyFamily alternativerock) 
-(isWrittenBy OdetoMyFamily DoloresO'Riordan) 
-(hasPublishDate OdetoMyFamily 1994-11-21T00:00:00Z) 
-;;; 
-
-;;; Crackerbox Palace
-(isa CrackerboxPalace song) 
-(isa 1977-01-24T00:00:00Z date) 
-(inGenre CrackerboxPalace rockmusic) 
-(isWrittenBy CrackerboxPalace GeorgeHarrison) 
-(hasPublishDate CrackerboxPalace 1977-01-24T00:00:00Z) 
-;;; 
-
-;;; Hey You
-(isa HeyYou song) 
-(isa 2007-05-24T00:00:00Z date) 
-(inGenre HeyYou popmusic) 
-(isWrittenBy HeyYou Madonna) 
-(hasPublishDate HeyYou 2007-05-24T00:00:00Z) 
-;;; 
-
-;;; It's Hard out Here for a Pimp
-(isa It'sHardoutHereforaPimp song) 
-(isa 2005-01-01T00:00:00Z date) 
-(inGenre It'sHardoutHereforaPimp gangstarap) 
-(inGenre It'sHardoutHereforaPimp crunk) 
-(isWrittenBy It'sHardoutHereforaPimp JuicyJ) 
-(hasPublishDate It'sHardoutHereforaPimp 2005-01-01T00:00:00Z) 
-;;; 
-
-;;; Rebel Rebel
-(isa RebelRebel song) 
-(isa 1974-02-15T00:00:00Z date) 
-(inGenre RebelRebel glamrock) 
-(isWrittenBy RebelRebel DavidBowie) 
-(hasPublishDate RebelRebel 1974-02-15T00:00:00Z) 
-;;; 
-
-;;; I Thought I Lost You
-(isa IThoughtILostYou song) 
-(isa 2008-01-01T00:00:00Z date) 
-(inGenre IThoughtILostYou teenpop) 
-(isWrittenBy IThoughtILostYou MileyCyrus) 
-(hasPublishDate IThoughtILostYou 2008-01-01T00:00:00Z) 
-;;; 
-
-;;; #thatPOWER
-(isa #thatPOWER song) 
-(isa 2013-03-18T00:00:00Z date) 
-(inGenre #thatPOWER electrohouse) 
-(isWrittenBy #thatPOWER JustinBieber) 
-(hasPublishDate #thatPOWER 2013-03-18T00:00:00Z) 
-;;; 
-
-;;; À ma place
-(isa Àmaplace song) 
-(isa 2001-05-07T00:00:00Z date) 
-(inGenre Àmaplace popmusic) 
-(isWrittenBy Àmaplace Zazie) 
-(hasPublishDate Àmaplace 2001-05-07T00:00:00Z) 
-;;; 
-
-;;; Señor Matanza
-(isa SeñorMatanza song) 
-(isa 1994-01-01T00:00:00Z date) 
-(inGenre SeñorMatanza alternativerock) 
-(isWrittenBy SeñorMatanza ManuChao) 
-(hasPublishDate SeñorMatanza 1994-01-01T00:00:00Z) 
-;;; 
-
-;;; The Lucky Ones
-(isa TheLuckyOnes song) 
-(isa 2012-10-29T00:00:00Z date) 
-(inGenre TheLuckyOnes popmusic) 
-(isWrittenBy TheLuckyOnes Kerli) 
-(hasPublishDate TheLuckyOnes 2012-10-29T00:00:00Z) 
-;;; 
-
-;;; In My Secret Life
-(isa InMySecretLife song) 
-(isa 2001-01-01T00:00:00Z date) 
-(inGenre InMySecretLife folkrock) 
-(isWrittenBy InMySecretLife LeonardCohen) 
-(hasPublishDate InMySecretLife 2001-01-01T00:00:00Z) 
-;;; 
-
-;;; Broken Vow
-(isa BrokenVow song) 
-(isa 1999-01-01T00:00:00Z date) 
-(inGenre BrokenVow westernclassicalmusic) 
-(isWrittenBy BrokenVow LaraFabian) 
-(hasPublishDate BrokenVow 1999-01-01T00:00:00Z) 
-;;; 
-
-;;; Draft Dodger Rag
-(isa DraftDodgerRag song) 
-(isa 1966-01-01T00:00:00Z date) 
-(inGenre DraftDodgerRag protestsong) 
-(isWrittenBy DraftDodgerRag PhilOchs) 
-(hasPublishDate DraftDodgerRag 1966-01-01T00:00:00Z) 
-;;; 
-
-;;; Timor
-(isa Timor song) 
-(isa 2005-01-01T00:00:00Z date) 
-(inGenre Timor dance-pop) 
-(isWrittenBy Timor Shakira) 
-(hasPublishDate Timor 2005-01-01T00:00:00Z) 
-;;; 
-
-;;; Mirage
-(isa Mirage song) 
-(isa 2010-11-22T00:00:00Z date) 
-(inGenre Mirage electropop) 
-(isWrittenBy Mirage M.Pokora) 
-(hasPublishDate Mirage 2010-11-22T00:00:00Z) 
-;;; 
-
-;;; Animals
-(isa Animals song) 
-(isa 2014-08-01T00:00:00Z date) 
-(inGenre Animals dance-pop) 
-(isWrittenBy Animals AdamLevine) 
-(hasPublishDate Animals 2014-08-01T00:00:00Z) 
-;;; 
-
-;;; Froot
-(isa Froot song) 
-(isa 2014-11-11T00:00:00Z date) 
-(inGenre Froot disco) 
-(isWrittenBy Froot MarinaDiamandis) 
-(hasPublishDate Froot 2014-11-11T00:00:00Z) 
-;;; 
-
-;;; Uptown Funk
-(isa UptownFunk song) 
-(isa 2014-11-10T00:00:00Z date) 
-(inGenre UptownFunk funk) 
-(isWrittenBy UptownFunk TrinidadJames) 
-(hasPublishDate UptownFunk 2014-11-10T00:00:00Z) 
-;;; 
-
-;;; Say You Love Me
-(isa SayYouLoveMe song) 
-(isa 2014-09-28T00:00:00Z date) 
-(inGenre SayYouLoveMe popmusic) 
-(inGenre SayYouLoveMe soulmusic) 
-(isWrittenBy SayYouLoveMe JessieWare) 
-(hasPublishDate SayYouLoveMe 2014-09-28T00:00:00Z) 
-;;; 
-
-;;; Living for Love
-(isa LivingforLove song) 
-(isa 2014-12-20T00:00:00Z date) 
-(inGenre LivingforLove electronicdancemusic) 
-(isWrittenBy LivingforLove Madonna) 
-(hasPublishDate LivingforLove 2014-12-20T00:00:00Z) 
-;;; 
-
-;;; Ghosttown
-(isa Ghosttown song) 
-(isa 2015-03-13T00:00:00Z date) 
-(inGenre Ghosttown popmusic) 
-(isWrittenBy Ghosttown Madonna) 
-(hasPublishDate Ghosttown 2015-03-13T00:00:00Z) 
-;;; 
-
-;;; Run So Far
-(isa RunSoFar song) 
-(isa 1989-01-01T00:00:00Z date) 
-(inGenre RunSoFar poprock) 
-(isWrittenBy RunSoFar GeorgeHarrison) 
-(hasPublishDate RunSoFar 1989-01-01T00:00:00Z) 
-;;; 
-
-;;; Angel
-(isa Angel song) 
-(isa 1998-11-24T00:00:00Z date) 
-(inGenre Angel popmusic) 
-(isWrittenBy Angel SarahMcLachlan) 
-(hasPublishDate Angel 1998-11-24T00:00:00Z) 
-;;; 
-
-;;; Applause
-(isa Applause song) 
-(isa 2013-08-12T00:00:00Z date) 
-(inGenre Applause synth-pop) 
-(isWrittenBy Applause LadyGaga) 
-(hasPublishDate Applause 2013-08-12T00:00:00Z) 
-;;; 
-
-;;; Dark Horse
-(isa DarkHorse song) 
-(isa 2013-09-17T00:00:00Z date) 
-(inGenre DarkHorse hiphopmusic) 
-(inGenre DarkHorse electropop) 
-(inGenre DarkHorse poprap) 
-(inGenre DarkHorse trapmusic) 
-(isWrittenBy DarkHorse JuicyJ) 
-(hasPublishDate DarkHorse 2013-09-17T00:00:00Z) 
-;;; 
-
-;;; I Wanna Talk 2 U
-(isa IWannaTalk2U song) 
-(isa 2012-07-06T00:00:00Z date) 
-(inGenre IWannaTalk2U alternativerock) 
-(isWrittenBy IWannaTalk2U JohnCale) 
-(hasPublishDate IWannaTalk2U 2012-07-06T00:00:00Z) 
-;;; 
-
-;;; Face to the Sky
-(isa FacetotheSky song) 
-(isa 2012-08-29T00:00:00Z date) 
-(inGenre FacetotheSky alternativerock) 
-(isWrittenBy FacetotheSky JohnCale) 
-(hasPublishDate FacetotheSky 2012-08-29T00:00:00Z) 
-;;; 
-
-;;; Living with You
-(isa LivingwithYou song) 
-(isa 2013-02-25T00:00:00Z date) 
-(inGenre LivingwithYou alternativerock) 
-(isWrittenBy LivingwithYou JohnCale) 
-(hasPublishDate LivingwithYou 2013-02-25T00:00:00Z) 
-;;; 
-
-;;; All Summer Long
-(isa AllSummerLong song) 
-(isa 2013-08-06T00:00:00Z date) 
-(inGenre AllSummerLong alternativerock) 
-(isWrittenBy AllSummerLong JohnCale) 
-(hasPublishDate AllSummerLong 2013-08-06T00:00:00Z) 
-;;; 
-
-;;; Heartbreaker
-(isa Heartbreaker song) 
-(isa 2013-10-07T00:00:00Z date) 
-(inGenre Heartbreaker popmusic) 
-(isWrittenBy Heartbreaker JustinBieber) 
-(hasPublishDate Heartbreaker 2013-10-07T00:00:00Z) 
-;;; 
-
-;;; Venus
-(isa Venus song) 
-(isa 2013-10-28T00:00:00Z date) 
-(inGenre Venus synth-pop) 
-(isWrittenBy Venus LadyGaga) 
-(hasPublishDate Venus 2013-10-28T00:00:00Z) 
-;;; 
-
-;;; Masterpiece
-(isa Masterpiece song) 
-(isa 2012-04-02T00:00:00Z date) 
-(inGenre Masterpiece popmusic) 
-(isWrittenBy Masterpiece Madonna) 
-(hasPublishDate Masterpiece 2012-04-02T00:00:00Z) 
-;;; 
-
-;;; Things
-(isa Things song) 
-(isa 2003-10-27T00:00:00Z date) 
-(inGenre Things alternativerock) 
-(isWrittenBy Things JohnCale) 
-(hasPublishDate Things 2003-10-27T00:00:00Z) 
-;;; 
-
-;;; Dope
-(isa Dope song) 
-(isa 2013-11-04T00:00:00Z date) 
-(inGenre Dope electronicrock) 
-(isWrittenBy Dope LadyGaga) 
-(hasPublishDate Dope 2013-11-04T00:00:00Z) 
-;;; 
-
-;;; Find Tomorrow
-(isa FindTomorrow song) 
-(isa 2013-11-29T00:00:00Z date) 
-(inGenre FindTomorrow progressivehouse) 
-(isWrittenBy FindTomorrow DimitriVegas&LikeMike) 
-(hasPublishDate FindTomorrow 2013-11-29T00:00:00Z) 
-;;; 
-
-;;; Lay Me Down
-(isa LayMeDown song) 
-(isa 2013-02-15T00:00:00Z date) 
-(inGenre LayMeDown popmusic) 
-(inGenre LayMeDown contemporaryR&B) 
-(isWrittenBy LayMeDown SamSmith) 
-(hasPublishDate LayMeDown 2013-02-15T00:00:00Z) 
-;;; 
-
-;;; My Love
-(isa MyLove song) 
-(isa 2014-02-28T00:00:00Z date) 
-(inGenre MyLove deephouse) 
-(isWrittenBy MyLove JessGlynne) 
-(hasPublishDate MyLove 2014-02-28T00:00:00Z) 
-;;; 
-
-;;; Bitch I'm Madonna
-(isa BitchI'mMadonna song) 
-(isa 2015-06-15T00:00:00Z date) 
-(inGenre BitchI'mMadonna electronicdancemusic) 
-(isWrittenBy BitchI'mMadonna Madonna) 
-(hasPublishDate BitchI'mMadonna 2015-06-15T00:00:00Z) 
-;;; 
-
-;;; On My Mind
-(isa OnMyMind song) 
-(isa 2015-09-17T00:00:00Z date) 
-(inGenre OnMyMind electropop) 
-(isWrittenBy OnMyMind EllieGoulding) 
-(hasPublishDate OnMyMind 2015-09-17T00:00:00Z) 
-;;; 
-
-;;; L.A. Woman
-(isa L.A.Woman song) 
-(isa 1971-04-19T00:00:00Z date) 
-(inGenre L.A.Woman bluesrock) 
-(isWrittenBy L.A.Woman JimMorrison) 
-(hasPublishDate L.A.Woman 1971-04-19T00:00:00Z) 
-;;; 
-
-;;; Cockiness
-(isa Cockiness song) 
-(isa 2012-09-07T00:00:00Z date) 
-(inGenre Cockiness dubstep) 
-(inGenre Cockiness dancehall) 
-(isWrittenBy Cockiness Rihanna) 
-(hasPublishDate Cockiness 2012-09-07T00:00:00Z) 
-;;; 
-
-;;; Breaking News
-(isa BreakingNews song) 
-(isa 2010-01-01T00:00:00Z date) 
-(inGenre BreakingNews contemporaryR&B) 
-(isWrittenBy BreakingNews MichaelJackson) 
-(hasPublishDate BreakingNews 2010-01-01T00:00:00Z) 
-;;; 
-
-;;; Friends
-(isa Friends song) 
-(isa 2017-08-17T00:00:00Z date) 
-(inGenre Friends popmusic) 
-(inGenre Friends dance-pop) 
-(inGenre Friends electro) 
-(isWrittenBy Friends JustinBieber) 
-(hasPublishDate Friends 2017-08-17T00:00:00Z) 
-;;; 
-
-;;; The Price of Fame
-(isa ThePriceofFame song) 
-(isa 2010-03-24T00:00:00Z date) 
-(inGenre ThePriceofFame popmusic) 
-(isWrittenBy ThePriceofFame MarcellusLong) 
-(hasPublishDate ThePriceofFame 2010-03-24T00:00:00Z) 
-;;; 
-
-;;; The Spirit of Knight
-(isa TheSpiritofKnight song) 
-(isa 2002-07-22T00:00:00Z date) 
-(inGenre TheSpiritofKnight popmusic) 
-(isWrittenBy TheSpiritofKnight JolinTsai) 
-(hasPublishDate TheSpiritofKnight 2002-07-22T00:00:00Z) 
-;;; 
-
-;;; Verlierer
-(isa Verlierer song) 
-(isa 2020-11-27T00:00:00Z date) 
-(inGenre Verlierer popmusic) 
-(isWrittenBy Verlierer Luna) 
-(hasPublishDate Verlierer 2020-11-27T00:00:00Z) 
-;;; 
-
-;;; The Healer
-(isa TheHealer song) 
-(isa 1989-01-01T00:00:00Z date) 
-(inGenre TheHealer blues) 
-(inGenre TheHealer Latinrock) 
-(isWrittenBy TheHealer JohnLeeHooker) 
-(hasPublishDate TheHealer 1989-01-01T00:00:00Z) 
-;;; 
-
-;;; I Wanna Know
-(isa IWannaKnow song) 
-(isa 2016-09-30T00:00:00Z date) 
-(inGenre IWannaKnow electronicdancemusic) 
-(isWrittenBy IWannaKnow JolinTsai) 
-(hasPublishDate IWannaKnow 2016-09-30T00:00:00Z) 
-;;; 
-
-;;; Désaccordé
-(isa Désaccordé song) 
-(isa 2018-01-05T00:00:00Z date) 
-(inGenre Désaccordé Frenchhiphop) 
-(isWrittenBy Désaccordé Vald) 
-(hasPublishDate Désaccordé 2018-01-05T00:00:00Z) 
-;;; 
-
-;;; Baby
-(isa Baby song) 
-(isa 2018-11-02T00:00:00Z date) 
-(inGenre Baby electronicmusic) 
-(inGenre Baby Latinpop) 
-(isWrittenBy Baby MarinaDiamandis) 
-(hasPublishDate Baby 2018-11-02T00:00:00Z) 
-;;; 
-
-;;; Piece by Piece
-(isa PiecebyPiece song) 
-(isa 2005-01-01T00:00:00Z date) 
-(inGenre PiecebyPiece blues) 
-(inGenre PiecebyPiece popmusic) 
-(inGenre PiecebyPiece countrymusic) 
-(isWrittenBy PiecebyPiece KatieMelua) 
-(hasPublishDate PiecebyPiece 2005-01-01T00:00:00Z) 
-;;; 
-
-;;; Gris
-(isa Gris song) 
-(isa 2018-01-01T00:00:00Z date) 
-(inGenre Gris Frenchhiphop) 
-(isWrittenBy Gris Vald) 
-(hasPublishDate Gris 2018-01-01T00:00:00Z) 
-;;; 
-
-;;; Tough Love
-(isa ToughLove song) 
-(isa 2019-05-09T00:00:00Z date) 
-(inGenre ToughLove electronicdancemusic) 
-(isWrittenBy ToughLove Avicii) 
-(hasPublishDate ToughLove 2019-05-09T00:00:00Z) 
-;;; 
-
-;;; One Touch
-(isa OneTouch song) 
-(isa 2019-05-24T00:00:00Z date) 
-(inGenre OneTouch housemusic) 
-(isWrittenBy OneTouch JessGlynne) 
-(hasPublishDate OneTouch 2019-05-24T00:00:00Z) 
-;;; 
-
-;;; 10,000 Hours
-(isa 10,000Hours song) 
-(isa 2019-10-04T00:00:00Z date) 
-(inGenre 10,000Hours popmusic) 
-(inGenre 10,000Hours countrypop) 
-(isWrittenBy 10,000Hours JustinBieber) 
-(hasPublishDate 10,000Hours 2019-10-04T00:00:00Z) 
-;;; 
-
-;;; Bim bam toi
-(isa Bimbamtoi song) 
-(isa 2019-10-11T00:00:00Z date) 
-(inGenre Bimbamtoi popmusic) 
-(inGenre Bimbamtoi electropop) 
-(inGenre Bimbamtoi chanson) 
-(isWrittenBy Bimbamtoi BarbaraPravi) 
-(hasPublishDate Bimbamtoi 2019-10-11T00:00:00Z) 
-;;; 
-
-(isa electronicmusic genre) 
-(isa reggae genre) 
-(isa popmusic genre) 
-(isa soulmusic genre) 
-(isa electropop genre) 
-(isa artrock genre) 
-(isa housemusic genre) 
-(isa rhythmandblues genre) 
-(isa charitysingle genre) 
-(isa dance-pop genre) 
-(isa funk genre) 
-(isa poprock genre) 
-(isa synth-pop genre) 
-(isa popularmusic genre) 
-(isa rockandroll genre) 
-(isa countryrock genre) 
-(isa musicofLatinAmerica genre) 
-(isa hardrock genre) 
-(isa psychedelicrock genre) 
-(isa alternativerock genre) 
-(isa electro genre) 
-(isa newagemusic genre) 
-(isa folkrock genre) 
-(isa spacerock genre) 
-(isa electronicdancemusic genre) 
-(isa lowercase genre) 
-(isa protestsong genre) 
-(isa rockmusic genre) 
-(isa post-punk genre) 
-(isa contemporaryR&B genre) 
-(isa bluesrock genre) 
-(isa Eurodance genre) 
-(isa hiphopmusic genre) 
-(isa poprap genre) 
-(isa trapmusic genre) 
-(isa Christmasmusic genre) 
-(isa Latinpop genre) 
-(isa Frenchrock genre) 
-(isa comedyrock genre) 
-(isa ambientmusic genre) 
-(isa middleoftheroad genre) 
-(isa rap genre) 
-(isa electronicrock genre) 
-(isa acousticmusic genre) 
-(isa newwave genre) 
-(isa grunge genre) 
-(isa westernclassicalmusic genre) 
-(isa gangstarap genre) 
-(isa crunk genre) 
-(isa glamrock genre) 
-(isa teenpop genre) 
-(isa vocalhouse genre) 
-(isa techno genre) 
-(isa progressivehouse genre) 
-(isa deephouse genre) 
-(isa electrohouse genre) 
-(isa dubstep genre) 
-(isa dancehall genre) 
-(isa disco genre) 
-(isa blues genre) 
-(isa Latinrock genre) 
-(isa Frenchhiphop genre) 
-(isa countrymusic genre) 
-(isa countrypop genre) 
-(isa chanson genre) 
-(isa Ne-Yo musician) 
-(influencedBy Ne-Yo MichaelJackson) 
-(isa MichaelJackson musician) 
-(influencedBy MichaelJackson CharlieChaplin) 
-(influencedBy MichaelJackson TheBeatles) 
-(influencedBy MichaelJackson JamesBrown) 
-(influencedBy MichaelJackson DianaRoss) 
-(influencedBy MichaelJackson FredAstaire) 
-(influencedBy MichaelJackson MarcelMarceau) 
-(influencedBy MichaelJackson JackieWilson) 
-(influencedBy MichaelJackson SamCooke) 
-(influencedBy MichaelJackson SammyDavisJr.) 
-(influencedBy MichaelJackson SlyStone) 
-(isa Rihanna musician) 
-(influencedBy Rihanna Aaliyah) 
-(isa Aaliyah musician) 
-(isa AmyWinehouse musician) 
-(influencedBy AmyWinehouse FrankSinatra) 
-(influencedBy AmyWinehouse BillieHoliday) 
-(influencedBy AmyWinehouse ArethaFranklin) 
-(influencedBy AmyWinehouse EttaJames) 
-(influencedBy AmyWinehouse ErykahBadu) 
-(influencedBy AmyWinehouse MaryJ.Blige) 
-(influencedBy AmyWinehouse DinahWashington) 
-(influencedBy AmyWinehouse SarahVaughan) 
-(influencedBy AmyWinehouse MeredithMonk) 
-(influencedBy AmyWinehouse TonyBennett) 
-(influencedBy AmyWinehouse D'Angelo) 
-(isa FrankSinatra musician) 
-(isa BillieHoliday musician) 
-(isa ArethaFranklin musician) 
-(isa EttaJames musician) 
-(isa ErykahBadu musician) 
-(isa MaryJ.Blige musician) 
-(isa DinahWashington musician) 
-(isa SarahVaughan musician) 
-(isa MeredithMonk musician) 
-(isa TonyBennett musician) 
-(isa D'Angelo musician) 
-(isa Madonna musician) 
-(influencedBy Madonna DavidBowie) 
-(influencedBy Madonna MaeWest) 
-(influencedBy Madonna DebbieHarry) 
-(influencedBy Madonna ChrissieHynde) 
-(influencedBy Madonna MarthaGraham) 
-(isa DavidBowie musician) 
-(influencedBy DavidBowie PinkFloyd) 
-(isa MaeWest musician) 
-(isa DebbieHarry musician) 
-(isa ChrissieHynde musician) 
-(isa MarthaGraham musician) 
-(isa PinkFloyd musician) 
-(isa CharlieChaplin musician) 
-(isa TheBeatles musician) 
-(isa JamesBrown musician) 
-(isa DianaRoss musician) 
-(isa FredAstaire musician) 
-(isa MarcelMarceau musician) 
-(isa JackieWilson musician) 
-(isa SamCooke musician) 
-(isa SammyDavisJr. musician) 
-(isa SlyStone musician) 
-(isa ChristinaAguilera musician) 
-(influencedBy ChristinaAguilera Cher) 
-(influencedBy ChristinaAguilera WhitneyHouston) 
-(influencedBy ChristinaAguilera EttaJames) 
-(isa Cher musician) 
-(isa WhitneyHouston musician) 
-(isa LionelRichie musician) 
-(influencedBy LionelRichie MarvinGaye) 
-(influencedBy LionelRichie OtisRedding) 
-(isa MarvinGaye musician) 
-(isa OtisRedding musician) 
-(isa LadyGaga musician) 
-(influencedBy LadyGaga Madonna) 
-(influencedBy LadyGaga DavidBowie) 
-(influencedBy LadyGaga Queen) 
-(isa Queen musician) 
-(isa Shakira musician) 
-(influencedBy Shakira JohnLennon) 
-(influencedBy Shakira Prince) 
-(influencedBy Shakira RedHotChiliPeppers) 
-(influencedBy Shakira TheRollingStones) 
-(influencedBy Shakira TheClash) 
-(influencedBy Shakira TomPetty) 
-(influencedBy Shakira Ramones) 
-(influencedBy Shakira TheCure) 
-(influencedBy Shakira Andeanmusic) 
-(influencedBy Shakira ThePretenders) 
-(influencedBy Shakira Fairuz) 
-(isa JohnLennon musician) 
-(isa Prince musician) 
-(influencedBy Prince StevieWonder) 
-(influencedBy Prince TheBeatles) 
-(influencedBy Prince JimiHendrix) 
-(influencedBy Prince JamesBrown) 
-(influencedBy Prince LittleRichard) 
-(influencedBy Prince JoniMitchell) 
-(influencedBy Prince RickJames) 
-(influencedBy Prince GeorgeClinton) 
-(influencedBy Prince CarlosSantana) 
-(influencedBy Prince SlyandtheFamilyStone) 
-(isa RedHotChiliPeppers musician) 
-(isa TheRollingStones musician) 
-(isa TheClash musician) 
-(isa TomPetty musician) 
-(isa Ramones musician) 
-(isa TheCure musician) 
-(isa Andeanmusic musician) 
-(isa ThePretenders musician) 
-(isa Fairuz musician) 
-(isa EsterDean musician) 
-(influencedBy EsterDean NickiMinaj) 
-(isa NickiMinaj musician) 
-(isa JohnLydon musician) 
-(influencedBy JohnLydon AliceCooper) 
-(isa AliceCooper musician) 
-(isa RayManzarek musician) 
-(influencedBy RayManzarek JackKerouac) 
-(isa JackKerouac musician) 
-(isa KTTunstall musician) 
-(influencedBy KTTunstall DavidBowie) 
-(isa StevieWonder musician) 
-(isa JimiHendrix musician) 
-(influencedBy JimiHendrix BobDylan) 
-(influencedBy JimiHendrix ChuckBerry) 
-(influencedBy JimiHendrix TheWho) 
-(influencedBy JimiHendrix Cream) 
-(isa LittleRichard musician) 
-(isa JoniMitchell musician) 
-(isa RickJames musician) 
-(isa GeorgeClinton musician) 
-(isa CarlosSantana musician) 
-(isa SlyandtheFamilyStone musician) 
-(isa Avicii musician) 
-(influencedBy Avicii SwedishHouseMafia) 
-(influencedBy Avicii DaftPunk) 
-(influencedBy Avicii Basshunter) 
-(isa SwedishHouseMafia musician) 
-(isa DaftPunk musician) 
-(isa Basshunter musician) 
-(isa Enya musician) 
-(influencedBy Enya BrianEno) 
-(isa BrianEno musician) 
-(isa Björk musician) 
-(influencedBy Björk KateBush) 
-(influencedBy Björk KarlheinzStockhausen) 
-(influencedBy Björk NinaHagen) 
-(influencedBy Björk ZeenaParkins) 
-(isa KateBush musician) 
-(isa KarlheinzStockhausen musician) 
-(isa NinaHagen musician) 
-(isa ZeenaParkins musician) 
-(isa DanielBalavoine musician) 
-(influencedBy DanielBalavoine BobDylan) 
-(influencedBy DanielBalavoine LedZeppelin) 
-(influencedBy DanielBalavoine Queen) 
-(influencedBy DanielBalavoine PhilCollins) 
-(influencedBy DanielBalavoine Genesis) 
-(influencedBy DanielBalavoine PeterGabriel) 
-(influencedBy DanielBalavoine Supertramp) 
-(influencedBy DanielBalavoine ThePolice) 
-(influencedBy DanielBalavoine Yes) 
-(influencedBy DanielBalavoine TearsforFears) 
-(influencedBy DanielBalavoine MichelBerger) 
-(influencedBy DanielBalavoine Christophe) 
-(isa BobDylan musician) 
-(influencedBy BobDylan WoodyGuthrie) 
-(influencedBy BobDylan AllenGinsberg) 
-(isa LedZeppelin musician) 
-(isa PhilCollins musician) 
-(isa Genesis musician) 
-(isa PeterGabriel musician) 
-(isa Supertramp musician) 
-(isa ThePolice musician) 
-(isa Yes musician) 
-(isa TearsforFears musician) 
-(isa MichelBerger musician) 
-(isa Christophe musician) 
-(isa PhilOchs musician) 
-(influencedBy PhilOchs BobGibson) 
-(isa BobGibson musician) 
-(isa Zazie musician) 
-(influencedBy Zazie JacquesBrel) 
-(isa JacquesBrel musician) 
-(isa AxelTony musician) 
-(influencedBy AxelTony BoyzIIMen) 
-(isa BoyzIIMen musician) 
-(isa IanCurtis musician) 
-(influencedBy IanCurtis High-Rise) 
-(isa High-Rise musician) 
-(isa M.Pokora musician) 
-(influencedBy M.Pokora MichaelJackson) 
-(influencedBy M.Pokora Usher) 
-(influencedBy M.Pokora ClaudeFrançois) 
-(isa Usher musician) 
-(isa ClaudeFrançois musician) 
-(isa TeddySinclair musician) 
-(influencedBy TeddySinclair Madonna) 
-(isa ChuckBerry musician) 
-(isa TheWho musician) 
-(isa Cream musician) 
-(isa BritneySpears musician) 
-(influencedBy BritneySpears Madonna) 
-(influencedBy BritneySpears MichaelJackson) 
-(influencedBy BritneySpears WhitneyHouston) 
-(influencedBy BritneySpears JanetJackson) 
-(isa JanetJackson musician) 
-(isa MarinaDiamandis musician) 
-(influencedBy MarinaDiamandis Madonna) 
-(influencedBy MarinaDiamandis BrodyDalle) 
-(isa BrodyDalle musician) 
-(isa Dido musician) 
-(influencedBy Dido 10,000Maniacs) 
-(isa 10,000Maniacs musician) 
-(isa LeonardCohen musician) 
-(influencedBy LeonardCohen FedericoGarcíaLorca) 
-(isa FedericoGarcíaLorca musician) 
-(isa SarahMcLachlan musician) 
-(influencedBy SarahMcLachlan JoniMitchell) 
-(isa JuicyJ musician) 
-(influencedBy JuicyJ Three6Mafia) 
-(isa Three6Mafia musician) 
-(isa JohnCale musician) 
-(influencedBy JohnCale AntonioVivaldi) 
-(influencedBy JohnCale BedřichSmetana) 
-(influencedBy JohnCale EdgardVarèse) 
-(influencedBy JohnCale IannisXenakis) 
-(influencedBy JohnCale MortonFeldman) 
-(influencedBy JohnCale LaMonteYoung) 
-(isa AntonioVivaldi musician) 
-(isa BedřichSmetana musician) 
-(isa EdgardVarèse musician) 
-(isa IannisXenakis musician) 
-(isa MortonFeldman musician) 
-(isa LaMonteYoung musician) 
-(isa JustinBieber musician) 
-(influencedBy JustinBieber StevieWonder) 
-(influencedBy JustinBieber TheBeatles) 
-(influencedBy JustinBieber MichaelJackson) 
-(influencedBy JustinBieber TupacShakur) 
-(influencedBy JustinBieber MariahCarey) 
-(influencedBy JustinBieber JustinTimberlake) 
-(influencedBy JustinBieber Usher) 
-(influencedBy JustinBieber BoyzIIMen) 
-(isa TupacShakur musician) 
-(isa MariahCarey musician) 
-(isa JustinTimberlake musician) 
-(isa CarolineLoeb musician) 
-(influencedBy CarolineLoeb MaeWest) 
-(influencedBy CarolineLoeb ZiziJeanmaire) 
-(influencedBy CarolineLoeb TallulahBankhead) 
-(isa ZiziJeanmaire musician) 
-(isa TallulahBankhead musician) 
-(isa GeorgeHarrison musician) 
-(influencedBy GeorgeHarrison ChuckBerry) 
-(influencedBy GeorgeHarrison RaviShankar) 
-(isa RaviShankar musician) 
-(isa GrégoryLemarchal musician) 
-(influencedBy GrégoryLemarchal SergeLama) 
-(isa SergeLama musician) 
-(isa DamienSaez musician) 
-(influencedBy DamienSaez JacquesBrel) 
-(isa YokoOno musician) 
-(influencedBy YokoOno AllanKaprow) 
-(isa AllanKaprow musician) 
-(isa ManuChao musician) 
-(influencedBy ManuChao BobMarley) 
-(influencedBy ManuChao GeorgesBrassens) 
-(influencedBy ManuChao ChuckBerry) 
-(influencedBy ManuChao CamaróndelaIsla) 
-(isa BobMarley musician) 
-(isa GeorgesBrassens musician) 
-(isa CamaróndelaIsla musician) 
-(isa "WeirdAl"Yankovic musician) 
-(influencedBy "WeirdAl"Yankovic AllanSherman) 
-(isa AllanSherman musician) 
-(isa NolwennLeroy musician) 
-(influencedBy NolwennLeroy AlanStivell) 
-(isa AlanStivell musician) 
-(isa FatsDomino musician) 
-(influencedBy FatsDomino AmosMilburn) 
-(isa AmosMilburn musician) 
-(isa BlackM musician) 
-(influencedBy BlackM MichaelJackson) 
-(isa Metallica musician) 
-(influencedBy Metallica Motörhead) 
-(influencedBy Metallica BlackSabbath) 
-(influencedBy Metallica DiamondHead) 
-(isa Motörhead musician) 
-(isa BlackSabbath musician) 
-(isa DiamondHead musician) 
-(isa Hopsin musician) 
-(influencedBy Hopsin Eminem) 
-(isa Eminem musician) 
-(isa Nirvana musician) 
-(influencedBy Nirvana LedZeppelin) 
-(influencedBy Nirvana BlackSabbath) 
-(influencedBy Nirvana Pixies) 
-(influencedBy Nirvana SonicYouth) 
-(influencedBy Nirvana TheStooges) 
-(isa Pixies musician) 
-(isa SonicYouth musician) 
-(isa TheStooges musician) 
-(isa WoodyGuthrie musician) 
-(isa AllenGinsberg musician) 
-(isa MileyCyrus musician) 
-(influencedBy MileyCyrus ElvisPresley) 
-(influencedBy MileyCyrus Madonna) 
-(influencedBy MileyCyrus BritneySpears) 
-(influencedBy MileyCyrus Timbaland) 
-(influencedBy MileyCyrus DollyParton) 
-(influencedBy MileyCyrus Lil'Kim) 
-(influencedBy MileyCyrus JoanJett) 
-(influencedBy MileyCyrus Hanson) 
-(influencedBy MileyCyrus OneRepublic) 
-(influencedBy MileyCyrus LuisitoComunica) 
-(isa ElvisPresley musician) 
-(isa Timbaland musician) 
-(isa DollyParton musician) 
-(isa Lil'Kim musician) 
-(isa JoanJett musician) 
-(isa Hanson musician) 
-(isa OneRepublic musician) 
-(isa LuisitoComunica musician) 
-(isa BillyJoel musician) 
-(influencedBy BillyJoel TheBeatles) 
-(isa Yanis musician) 
-(influencedBy Yanis Prince) 
-(isa PaddyMcAloon musician) 
-(influencedBy PaddyMcAloon StephenSondheim) 
-(isa StephenSondheim musician) 
-(isa LaraFabian musician) 
-(influencedBy LaraFabian CelineDion) 
-(isa CelineDion musician) 
-(isa JimMorrison musician) 
-(influencedBy JimMorrison ElvisPresley) 
-(isa DoloresO'Riordan musician) 
-(influencedBy DoloresO'Riordan DuranDuran) 
-(influencedBy DoloresO'Riordan TheSmiths) 
-(isa DuranDuran musician) 
-(isa TheSmiths musician) 
-(isa U2 musician) 
-(influencedBy U2 PinkFloyd) 
-(isa DimitriVegas&LikeMike musician) 
-(influencedBy DimitriVegas&LikeMike SteveAoki) 
-(isa SteveAoki musician) 
-(isa SamSmith musician) 
-(influencedBy SamSmith LadyGaga) 
-(influencedBy SamSmith Adele) 
-(influencedBy SamSmith WhitneyHouston) 
-(influencedBy SamSmith Beyoncé) 
-(influencedBy SamSmith ArethaFranklin) 
-(influencedBy SamSmith Sia) 
-(influencedBy SamSmith EttaJames) 
-(influencedBy SamSmith LutherVandross) 
-(isa Adele musician) 
-(isa Beyoncé musician) 
-(isa Sia musician) 
-(isa LutherVandross musician) 
-(isa JessGlynne musician) 
-(influencedBy JessGlynne AmyWinehouse) 
-(isa TrinidadJames musician) 
-(influencedBy TrinidadJames Cam'ron) 
-(isa Cam'ron musician) 
-(isa JessieWare musician) 
-(influencedBy JessieWare KateBush) 
-(isa Kerli musician) 
-(influencedBy Kerli Björk) 
-(isa MarcellusLong musician) 
-(influencedBy MarcellusLong JustinTimberlake) 
-(influencedBy MarcellusLong Usher) 
-(isa JolinTsai musician) 
-(influencedBy JolinTsai Madonna) 
-(influencedBy JolinTsai WhitneyHouston) 
-(influencedBy JolinTsai MariahCarey) 
-(influencedBy JolinTsai Destiny'sChild) 
-(isa Destiny'sChild musician) 
-(isa EllieGoulding musician) 
-(influencedBy EllieGoulding KateBush) 
-(isa AdamLevine musician) 
-(influencedBy AdamLevine StevieWonder) 
-(isa Luna musician) 
-(influencedBy Luna Lea) 
-(isa Lea musician) 
-(isa JohnLeeHooker musician) 
-(influencedBy JohnLeeHooker BlindLemonJefferson) 
-(isa BlindLemonJefferson musician) 
-(isa Vald musician) 
-(influencedBy Vald Alkpote) 
-(isa Alkpote musician) 
-(isa KatieMelua musician) 
-(influencedBy KatieMelua Queen) 
-(isa BarbaraPravi musician) 
-(influencedBy BarbaraPravi ÉdithPiaf) 
-(influencedBy BarbaraPravi JacquesBrel) 
-(influencedBy BarbaraPravi Barbara) 
-(influencedBy BarbaraPravi Dalida) 
-(isa ÉdithPiaf musician) 
-(isa Barbara musician) 
-(isa Dalida musician) 
-;;; Right Now
-(isa RightNow song) 
-(isa 2013-05-28T00:00:00Z date) 
-(inGenre RightNow electronicmusic) 
-(isWrittenBy RightNow Ne-Yo) 
-(hasPublishDate RightNow 2013-05-28T00:00:00Z) 
-;;; 
-
-;;; You da One
-(isa YoudaOne song) 
-(isa 2011-11-11T00:00:00Z date) 
-(inGenre YoudaOne reggae) 
-(inGenre YoudaOne popmusic) 
-(isWrittenBy YoudaOne Rihanna) 
-(hasPublishDate YoudaOne 2011-11-11T00:00:00Z) 
-;;; 
-
-;;; Rehab
-(isa Rehab song) 
-(isa 2006-10-23T00:00:00Z date) 
-(inGenre Rehab soulmusic) 
-(isWrittenBy Rehab AmyWinehouse) 
-(hasPublishDate Rehab 2006-10-23T00:00:00Z) 
-;;; 
-
-;;; Girl Gone Wild
-(isa GirlGoneWild song) 
-(isa 2012-03-01T00:00:00Z date) 
-(inGenre GirlGoneWild electropop) 
-(isWrittenBy GirlGoneWild Madonna) 
-(hasPublishDate GirlGoneWild 2012-03-01T00:00:00Z) 
-;;; 
-
-;;; Ashes to Ashes
-(isa AshestoAshes song) 
-(isa 1980-08-08T00:00:00Z date) 
-(inGenre AshestoAshes artrock) 
-(isWrittenBy AshestoAshes DavidBowie) 
-(hasPublishDate AshestoAshes 1980-08-08T00:00:00Z) 
-;;; 
-
-;;; You Rock My World
-(isa YouRockMyWorld song) 
-(isa 2001-01-01T00:00:00Z date) 
-(inGenre YouRockMyWorld housemusic) 
-(inGenre YouRockMyWorld popmusic) 
-(inGenre YouRockMyWorld rhythmandblues) 
-(isWrittenBy YouRockMyWorld MichaelJackson) 
-(hasPublishDate YouRockMyWorld 2001-01-01T00:00:00Z) 
-;;; 
-
-;;; Hello (Follow Your Own Star)
-(isa Hello(FollowYourOwnStar) song) 
-(isa 2004-01-01T00:00:00Z date) 
-(inGenre Hello(FollowYourOwnStar) popmusic) 
-(isWrittenBy Hello(FollowYourOwnStar) ChristinaAguilera) 
-(hasPublishDate Hello(FollowYourOwnStar) 2004-01-01T00:00:00Z) 
-;;; 
-
-;;; We Are the World
-(isa WeAretheWorld song) 
-(isa 1985-03-28T00:00:00Z date) 
-(inGenre WeAretheWorld popmusic) 
-(inGenre WeAretheWorld charitysingle) 
-(isWrittenBy WeAretheWorld LionelRichie) 
-(hasPublishDate WeAretheWorld 1985-03-28T00:00:00Z) 
-;;; 
-
-;;; Superstar
-(isa Superstar song) 
-(isa 2012-12-03T00:00:00Z date) 
-(inGenre Superstar dance-pop) 
-(isWrittenBy Superstar Madonna) 
-(hasPublishDate Superstar 2012-12-03T00:00:00Z) 
-;;; 
-
-;;; Scheiße
-(isa Scheiße song) 
-(isa 2011-05-23T00:00:00Z date) 
-(inGenre Scheiße dance-pop) 
-(isWrittenBy Scheiße LadyGaga) 
-(hasPublishDate Scheiße 2011-05-23T00:00:00Z) 
-;;; 
-
-;;; Shake Your Body
-(isa ShakeYourBody song) 
-(isa 1979-01-01T00:00:00Z date) 
-(inGenre ShakeYourBody funk) 
-(isWrittenBy ShakeYourBody MichaelJackson) 
-(hasPublishDate ShakeYourBody 1979-01-01T00:00:00Z) 
-;;; 
-
-;;; Poker Face
-(isa PokerFace song) 
-(isa 2008-09-29T00:00:00Z date) 
-(inGenre PokerFace electropop) 
-(isWrittenBy PokerFace LadyGaga) 
-(hasPublishDate PokerFace 2008-09-29T00:00:00Z) 
-;;; 
-
-;;; Waka Waka (This Time for Africa)
-(isa WakaWaka(ThisTimeforAfrica) song) 
-(isa 2010-03-11T00:00:00Z date) 
-(inGenre WakaWaka(ThisTimeforAfrica) popmusic) 
-(inGenre WakaWaka(ThisTimeforAfrica) poprock) 
-(isWrittenBy WakaWaka(ThisTimeforAfrica) Shakira) 
-(hasPublishDate WakaWaka(ThisTimeforAfrica) 2010-03-11T00:00:00Z) 
-;;; 
-
-;;; Firework
-(isa Firework song) 
-(isa 2010-10-26T00:00:00Z date) 
-(inGenre Firework dance-pop) 
-(inGenre Firework synth-pop) 
-(isWrittenBy Firework EsterDean) 
-(hasPublishDate Firework 2010-10-26T00:00:00Z) 
-;;; 
-
-;;; Earth Song
-(isa EarthSong song) 
-(isa 1995-12-27T00:00:00Z date) 
-(inGenre EarthSong popularmusic) 
-(isWrittenBy EarthSong MichaelJackson) 
-(hasPublishDate EarthSong 1995-12-27T00:00:00Z) 
-;;; 
-
-;;; Telephone
-(isa Telephone song) 
-(isa 2010-02-15T00:00:00Z date) 
-(inGenre Telephone electropop) 
-(inGenre Telephone dance-pop) 
-(isWrittenBy Telephone LadyGaga) 
-(hasPublishDate Telephone 2010-02-15T00:00:00Z) 
-;;; 
-
-;;; Born This Way
-(isa BornThisWay song) 
-(isa 2011-02-11T00:00:00Z date) 
-(inGenre BornThisWay electropop) 
-(inGenre BornThisWay dance-pop) 
-(isWrittenBy BornThisWay LadyGaga) 
-(hasPublishDate BornThisWay 2011-02-11T00:00:00Z) 
-;;; 
-
-;;; Just Dance
-(isa JustDance song) 
-(isa 2008-04-08T00:00:00Z date) 
-(inGenre JustDance electropop) 
-(inGenre JustDance dance-pop) 
-(isWrittenBy JustDance LadyGaga) 
-(hasPublishDate JustDance 2008-04-08T00:00:00Z) 
-;;; 
-
-;;; You and I
-(isa YouandI song) 
-(isa 2011-08-23T00:00:00Z date) 
-(inGenre YouandI rockandroll) 
-(inGenre YouandI countryrock) 
-(isWrittenBy YouandI LadyGaga) 
-(hasPublishDate YouandI 2011-08-23T00:00:00Z) 
-;;; 
-
-;;; LoveGame
-(isa LoveGame song) 
-(isa 2009-03-24T00:00:00Z date) 
-(inGenre LoveGame electropop) 
-(inGenre LoveGame dance-pop) 
-(isWrittenBy LoveGame LadyGaga) 
-(hasPublishDate LoveGame 2009-03-24T00:00:00Z) 
-;;; 
-
-;;; Eh, Eh (Nothing Else I Can Say)
-(isa Eh,Eh(NothingElseICanSay) song) 
-(isa 2009-01-10T00:00:00Z date) 
-(inGenre Eh,Eh(NothingElseICanSay) electropop) 
-(inGenre Eh,Eh(NothingElseICanSay) synth-pop) 
-(isWrittenBy Eh,Eh(NothingElseICanSay) LadyGaga) 
-(hasPublishDate Eh,Eh(NothingElseICanSay) 2009-01-10T00:00:00Z) 
-;;; 
-
-;;; Te Amo
-(isa TeAmo song) 
-(isa 2010-06-11T00:00:00Z date) 
-(inGenre TeAmo musicofLatinAmerica) 
-(isWrittenBy TeAmo Rihanna) 
-(hasPublishDate TeAmo 2010-06-11T00:00:00Z) 
-;;; 
-
-;;; Anarchy in the U.K.
-(isa AnarchyintheU.K. song) 
-(isa 1976-11-26T00:00:00Z date) 
-(inGenre AnarchyintheU.K. hardrock) 
-(isWrittenBy AnarchyintheU.K. JohnLydon) 
-(hasPublishDate AnarchyintheU.K. 1976-11-26T00:00:00Z) 
-;;; 
-
-;;; Riders on the Storm
-(isa RidersontheStorm song) 
-(isa 1971-06-01T00:00:00Z date) 
-(inGenre RidersontheStorm psychedelicrock) 
-(isWrittenBy RidersontheStorm RayManzarek) 
-(hasPublishDate RidersontheStorm 1971-06-01T00:00:00Z) 
-;;; 
-
-;;; Suddenly I See
-(isa SuddenlyISee song) 
-(isa 2005-08-29T00:00:00Z date) 
-(inGenre SuddenlyISee alternativerock) 
-(isWrittenBy SuddenlyISee KTTunstall) 
-(hasPublishDate SuddenlyISee 2005-08-29T00:00:00Z) 
-;;; 
-
-;;; Nothing Compares 2 U
-(isa NothingCompares2U song) 
-(isa 1990-01-08T00:00:00Z date) 
-(inGenre NothingCompares2U popmusic) 
-(isWrittenBy NothingCompares2U Prince) 
-(hasPublishDate NothingCompares2U 1990-01-08T00:00:00Z) 
-;;; 
-
-;;; All Night Long
-(isa AllNightLong song) 
-(isa 1983-08-31T00:00:00Z date) 
-(inGenre AllNightLong popmusic) 
-(isWrittenBy AllNightLong LionelRichie) 
-(hasPublishDate AllNightLong 1983-08-31T00:00:00Z) 
-;;; 
-
-;;; Good Feeling
-(isa GoodFeeling song) 
-(isa 2011-08-29T00:00:00Z date) 
-(inGenre GoodFeeling electro) 
-(isWrittenBy GoodFeeling Avicii) 
-(hasPublishDate GoodFeeling 2011-08-29T00:00:00Z) 
-;;; 
-
-;;; We Are the World 25 for Haiti
-(isa WeAretheWorld25forHaiti song) 
-(isa 2010-02-12T00:00:00Z date) 
-(inGenre WeAretheWorld25forHaiti popmusic) 
-(isWrittenBy WeAretheWorld25forHaiti LionelRichie) 
-(hasPublishDate WeAretheWorld25forHaiti 2010-02-12T00:00:00Z) 
-;;; 
-
-;;; Dance in the Dark
-(isa DanceintheDark song) 
-(isa 2010-07-26T00:00:00Z date) 
-(inGenre DanceintheDark synth-pop) 
-(isWrittenBy DanceintheDark LadyGaga) 
-(hasPublishDate DanceintheDark 2010-07-26T00:00:00Z) 
-;;; 
-
-;;; Caribbean Blue
-(isa CaribbeanBlue song) 
-(isa 1991-10-07T00:00:00Z date) 
-(inGenre CaribbeanBlue newagemusic) 
-(isWrittenBy CaribbeanBlue Enya) 
-(hasPublishDate CaribbeanBlue 1991-10-07T00:00:00Z) 
-;;; 
-
-;;; Space Oddity
-(isa SpaceOddity song) 
-(isa 1969-07-11T00:00:00Z date) 
-(inGenre SpaceOddity folkrock) 
-(inGenre SpaceOddity spacerock) 
-(isWrittenBy SpaceOddity DavidBowie) 
-(hasPublishDate SpaceOddity 1969-07-11T00:00:00Z) 
-;;; 
-
-;;; Express Yourself
-(isa ExpressYourself song) 
-(isa 1989-05-09T00:00:00Z date) 
-(inGenre ExpressYourself popmusic) 
-(isWrittenBy ExpressYourself Madonna) 
-(hasPublishDate ExpressYourself 1989-05-09T00:00:00Z) 
-;;; 
-
-;;; This Used to Be My Playground
-(isa ThisUsedtoBeMyPlayground song) 
-(isa 1992-06-16T00:00:00Z date) 
-(inGenre ThisUsedtoBeMyPlayground popmusic) 
-(isWrittenBy ThisUsedtoBeMyPlayground Madonna) 
-(hasPublishDate ThisUsedtoBeMyPlayground 1992-06-16T00:00:00Z) 
-;;; 
-
-;;; Open Your Heart
-(isa OpenYourHeart song) 
-(isa 1986-11-19T00:00:00Z date) 
-(inGenre OpenYourHeart dance-pop) 
-(isWrittenBy OpenYourHeart Madonna) 
-(hasPublishDate OpenYourHeart 1986-11-19T00:00:00Z) 
-;;; 
-
-;;; Play Hard
-(isa PlayHard song) 
-(isa 2013-03-15T00:00:00Z date) 
-(inGenre PlayHard electronicdancemusic) 
-(isWrittenBy PlayHard Ne-Yo) 
-(hasPublishDate PlayHard 2013-03-15T00:00:00Z) 
-;;; 
-
-;;; Cocoon
-(isa Cocoon song) 
-(isa 2002-03-11T00:00:00Z date) 
-(inGenre Cocoon lowercase) 
-(isWrittenBy Cocoon Björk) 
-(hasPublishDate Cocoon 2002-03-11T00:00:00Z) 
-;;; 
-
-;;; Miles Away
-(isa MilesAway song) 
-(isa 2008-11-01T00:00:00Z date) 
-(inGenre MilesAway electropop) 
-(isWrittenBy MilesAway Madonna) 
-(hasPublishDate MilesAway 2008-11-01T00:00:00Z) 
-;;; 
-
-;;; Sauver l'amour
-(isa Sauverl'amour song) 
-(isa 1986-03-18T00:00:00Z date) 
-(inGenre Sauverl'amour popmusic) 
-(isWrittenBy Sauverl'amour DanielBalavoine) 
-(hasPublishDate Sauverl'amour 1986-03-18T00:00:00Z) 
-;;; 
-
-;;; There but for Fortune
-(isa TherebutforFortune song) 
-(isa 1965-01-01T00:00:00Z date) 
-(inGenre TherebutforFortune protestsong) 
-(isWrittenBy TherebutforFortune PhilOchs) 
-(hasPublishDate TherebutforFortune 1965-01-01T00:00:00Z) 
-;;; 
-
 ;;; Poem to a Horse
 (isa PoemtoaHorse song) 
 (isa 2004-02-16T00:00:00Z date) 
@@ -3598,253 +1015,6 @@
 (inGenre Avectoi popmusic) 
 (isWrittenBy Avectoi AxelTony) 
 (hasPublishDate Avectoi 2012-01-01T00:00:00Z) 
-;;; 
-
-;;; Ceremony
-(isa Ceremony song) 
-(isa 1981-01-01T00:00:00Z date) 
-(inGenre Ceremony post-punk) 
-(isWrittenBy Ceremony IanCurtis) 
-(hasPublishDate Ceremony 1981-01-01T00:00:00Z) 
-;;; 
-
-;;; Dangerous
-(isa Dangerous song) 
-(isa 2008-03-22T00:00:00Z date) 
-(inGenre Dangerous contemporaryR&B) 
-(isWrittenBy Dangerous M.Pokora) 
-(hasPublishDate Dangerous 2008-03-22T00:00:00Z) 
-;;; 
-
-;;; Kill My Boyfriend
-(isa KillMyBoyfriend song) 
-(isa 2012-01-01T00:00:00Z date) 
-(inGenre KillMyBoyfriend synth-pop) 
-(isWrittenBy KillMyBoyfriend TeddySinclair) 
-(hasPublishDate KillMyBoyfriend 2012-01-01T00:00:00Z) 
-;;; 
-
-;;; Nobody Knows Me
-(isa NobodyKnowsMe song) 
-(isa 2003-10-15T00:00:00Z date) 
-(inGenre NobodyKnowsMe popmusic) 
-(isWrittenBy NobodyKnowsMe Madonna) 
-(hasPublishDate NobodyKnowsMe 2003-10-15T00:00:00Z) 
-;;; 
-
-;;; Crosstown Traffic
-(isa CrosstownTraffic song) 
-(isa 1968-11-21T00:00:00Z date) 
-(inGenre CrosstownTraffic bluesrock) 
-(isWrittenBy CrosstownTraffic JimiHendrix) 
-(hasPublishDate CrosstownTraffic 1968-11-21T00:00:00Z) 
-;;; 
-
-;;; Just for One Day
-(isa JustforOneDay song) 
-(isa 2003-01-01T00:00:00Z date) 
-(inGenre JustforOneDay housemusic) 
-(isWrittenBy JustforOneDay DavidBowie) 
-(hasPublishDate JustforOneDay 2003-01-01T00:00:00Z) 
-;;; 
-
-;;; Peacock
-(isa Peacock song) 
-(isa 2010-01-01T00:00:00Z date) 
-(inGenre Peacock dance-pop) 
-(isWrittenBy Peacock EsterDean) 
-(hasPublishDate Peacock 2010-01-01T00:00:00Z) 
-;;; 
-
-;;; Give Me All Your Luvin'
-(isa GiveMeAllYourLuvin' song) 
-(isa 2012-02-03T00:00:00Z date) 
-(inGenre GiveMeAllYourLuvin' dance-pop) 
-(isWrittenBy GiveMeAllYourLuvin' Madonna) 
-(hasPublishDate GiveMeAllYourLuvin' 2012-02-03T00:00:00Z) 
-;;; 
-
-;;; Someday (I Will Understand)
-(isa Someday(IWillUnderstand) song) 
-(isa 2005-08-18T00:00:00Z date) 
-(inGenre Someday(IWillUnderstand) popmusic) 
-(isWrittenBy Someday(IWillUnderstand) BritneySpears) 
-(hasPublishDate Someday(IWillUnderstand) 2005-08-18T00:00:00Z) 
-;;; 
-
-;;; Beautiful, Dirty, Rich
-(isa Beautiful,Dirty,Rich song) 
-(isa 2008-09-16T00:00:00Z date) 
-(inGenre Beautiful,Dirty,Rich dance-pop) 
-(inGenre Beautiful,Dirty,Rich synth-pop) 
-(isWrittenBy Beautiful,Dirty,Rich LadyGaga) 
-(hasPublishDate Beautiful,Dirty,Rich 2008-09-16T00:00:00Z) 
-;;; 
-
-;;; Batdance
-(isa Batdance song) 
-(isa 1989-06-09T00:00:00Z date) 
-(inGenre Batdance rockmusic) 
-(isWrittenBy Batdance Prince) 
-(hasPublishDate Batdance 1989-06-09T00:00:00Z) 
-;;; 
-
-;;; S&M
-(isa S&M song) 
-(isa 2011-01-25T00:00:00Z date) 
-(inGenre S&M dance-pop) 
-(inGenre S&M Eurodance) 
-(inGenre S&M electro) 
-(isWrittenBy S&M EsterDean) 
-(hasPublishDate S&M 2011-01-25T00:00:00Z) 
-;;; 
-
-;;; Under Pressure
-(isa UnderPressure song) 
-(isa 1981-10-26T00:00:00Z date) 
-(inGenre UnderPressure rockandroll) 
-(isWrittenBy UnderPressure DavidBowie) 
-(hasPublishDate UnderPressure 1981-10-26T00:00:00Z) 
-;;; 
-
-;;; Radioactive
-(isa Radioactive song) 
-(isa 2011-09-23T00:00:00Z date) 
-(inGenre Radioactive Eurodance) 
-(isWrittenBy Radioactive MarinaDiamandis) 
-(hasPublishDate Radioactive 2011-09-23T00:00:00Z) 
-;;; 
-
-;;; Disturbia
-(isa Disturbia song) 
-(isa 2008-06-17T00:00:00Z date) 
-(inGenre Disturbia dance-pop) 
-(inGenre Disturbia synth-pop) 
-(isWrittenBy Disturbia Rihanna) 
-(hasPublishDate Disturbia 2008-06-17T00:00:00Z) 
-;;; 
-
-;;; Christmas Tree
-(isa ChristmasTree song) 
-(isa 2008-12-16T00:00:00Z date) 
-(inGenre ChristmasTree dance-pop) 
-(isWrittenBy ChristmasTree LadyGaga) 
-(hasPublishDate ChristmasTree 2008-12-16T00:00:00Z) 
-;;; 
-
-;;; I'm Not a Girl, Not Yet a Woman
-(isa I'mNotaGirl,NotYetaWoman song) 
-(isa 2002-02-18T00:00:00Z date) 
-(inGenre I'mNotaGirl,NotYetaWoman popmusic) 
-(isWrittenBy I'mNotaGirl,NotYetaWoman Dido) 
-(hasPublishDate I'mNotaGirl,NotYetaWoman 2002-02-18T00:00:00Z) 
-;;; 
-
-;;; Birthday Cake
-(isa BirthdayCake song) 
-(isa 2011-11-01T00:00:00Z date) 
-(inGenre BirthdayCake contemporaryR&B) 
-(isWrittenBy BirthdayCake Rihanna) 
-(hasPublishDate BirthdayCake 2011-11-01T00:00:00Z) 
-;;; 
-
-;;; In My Secret Life
-(isa InMySecretLife song) 
-(isa 2001-01-01T00:00:00Z date) 
-(inGenre InMySecretLife folkrock) 
-(isWrittenBy InMySecretLife LeonardCohen) 
-(hasPublishDate InMySecretLife 2001-01-01T00:00:00Z) 
-;;; 
-
-;;; Angel
-(isa Angel song) 
-(isa 1998-11-24T00:00:00Z date) 
-(inGenre Angel popmusic) 
-(isWrittenBy Angel SarahMcLachlan) 
-(hasPublishDate Angel 1998-11-24T00:00:00Z) 
-;;; 
-
-;;; Applause
-(isa Applause song) 
-(isa 2013-08-12T00:00:00Z date) 
-(inGenre Applause synth-pop) 
-(isWrittenBy Applause LadyGaga) 
-(hasPublishDate Applause 2013-08-12T00:00:00Z) 
-;;; 
-
-;;; Dark Horse
-(isa DarkHorse song) 
-(isa 2013-09-17T00:00:00Z date) 
-(inGenre DarkHorse hiphopmusic) 
-(inGenre DarkHorse electropop) 
-(inGenre DarkHorse poprap) 
-(inGenre DarkHorse trapmusic) 
-(isWrittenBy DarkHorse JuicyJ) 
-(hasPublishDate DarkHorse 2013-09-17T00:00:00Z) 
-;;; 
-
-;;; I Wanna Talk 2 U
-(isa IWannaTalk2U song) 
-(isa 2012-07-06T00:00:00Z date) 
-(inGenre IWannaTalk2U alternativerock) 
-(isWrittenBy IWannaTalk2U JohnCale) 
-(hasPublishDate IWannaTalk2U 2012-07-06T00:00:00Z) 
-;;; 
-
-;;; Face to the Sky
-(isa FacetotheSky song) 
-(isa 2012-08-29T00:00:00Z date) 
-(inGenre FacetotheSky alternativerock) 
-(isWrittenBy FacetotheSky JohnCale) 
-(hasPublishDate FacetotheSky 2012-08-29T00:00:00Z) 
-;;; 
-
-;;; Living with You
-(isa LivingwithYou song) 
-(isa 2013-02-25T00:00:00Z date) 
-(inGenre LivingwithYou alternativerock) 
-(isWrittenBy LivingwithYou JohnCale) 
-(hasPublishDate LivingwithYou 2013-02-25T00:00:00Z) 
-;;; 
-
-;;; All Summer Long
-(isa AllSummerLong song) 
-(isa 2013-08-06T00:00:00Z date) 
-(inGenre AllSummerLong alternativerock) 
-(isWrittenBy AllSummerLong JohnCale) 
-(hasPublishDate AllSummerLong 2013-08-06T00:00:00Z) 
-;;; 
-
-;;; Heartbreaker
-(isa Heartbreaker song) 
-(isa 2013-10-07T00:00:00Z date) 
-(inGenre Heartbreaker popmusic) 
-(isWrittenBy Heartbreaker JustinBieber) 
-(hasPublishDate Heartbreaker 2013-10-07T00:00:00Z) 
-;;; 
-
-;;; Venus
-(isa Venus song) 
-(isa 2013-10-28T00:00:00Z date) 
-(inGenre Venus synth-pop) 
-(isWrittenBy Venus LadyGaga) 
-(hasPublishDate Venus 2013-10-28T00:00:00Z) 
-;;; 
-
-;;; Masterpiece
-(isa Masterpiece song) 
-(isa 2012-04-02T00:00:00Z date) 
-(inGenre Masterpiece popmusic) 
-(isWrittenBy Masterpiece Madonna) 
-(hasPublishDate Masterpiece 2012-04-02T00:00:00Z) 
-;;; 
-
-;;; Things
-(isa Things song) 
-(isa 2003-10-27T00:00:00Z date) 
-(inGenre Things alternativerock) 
-(isWrittenBy Things JohnCale) 
-(hasPublishDate Things 2003-10-27T00:00:00Z) 
 ;;; 
 
 ;;; C'est la ouate
@@ -4004,62 +1174,6 @@
 (hasPublishDate ByeByeBaby 1993-11-15T00:00:00Z) 
 ;;; 
 
-;;; Mala Vida
-(isa MalaVida song) 
-(isa 1988-01-01T00:00:00Z date) 
-(inGenre MalaVida Frenchrock) 
-(isWrittenBy MalaVida ManuChao) 
-(hasPublishDate MalaVida 1988-01-01T00:00:00Z) 
-;;; 
-
-;;; The Saga Begins
-(isa TheSagaBegins song) 
-(isa 1999-06-24T00:00:00Z date) 
-(inGenre TheSagaBegins comedyrock) 
-(isWrittenBy TheSagaBegins "WeirdAl"Yankovic) 
-(hasPublishDate TheSagaBegins 1999-06-24T00:00:00Z) 
-;;; 
-
-;;; Moon
-(isa Moon song) 
-(isa 2011-09-06T00:00:00Z date) 
-(inGenre Moon ambientmusic) 
-(isWrittenBy Moon Björk) 
-(hasPublishDate Moon 2011-09-06T00:00:00Z) 
-;;; 
-
-;;; Nolwenn Ohwo !
-(isa NolwennOhwo! song) 
-(isa 2006-01-01T00:00:00Z date) 
-(inGenre NolwennOhwo! middleoftheroad) 
-(isWrittenBy NolwennOhwo! NolwennLeroy) 
-(hasPublishDate NolwennOhwo! 2006-01-01T00:00:00Z) 
-;;; 
-
-;;; Pas sans toi
-(isa Passanstoi song) 
-(isa 2005-01-01T00:00:00Z date) 
-(inGenre Passanstoi contemporaryR&B) 
-(isWrittenBy Passanstoi M.Pokora) 
-(hasPublishDate Passanstoi 2005-01-01T00:00:00Z) 
-;;; 
-
-;;; Walking to New Orleans
-(isa WalkingtoNewOrleans song) 
-(isa 1960-06-01T00:00:00Z date) 
-(inGenre WalkingtoNewOrleans rhythmandblues) 
-(isWrittenBy WalkingtoNewOrleans FatsDomino) 
-(hasPublishDate WalkingtoNewOrleans 1960-06-01T00:00:00Z) 
-;;; 
-
-;;; Qui t'a dit ?
-(isa Quit'adit? song) 
-(isa 2011-03-12T00:00:00Z date) 
-(inGenre Quit'adit? rap) 
-(isWrittenBy Quit'adit? BlackM) 
-(hasPublishDate Quit'adit? 2011-03-12T00:00:00Z) 
-;;; 
-
 ;;; What More Can I Give
 (isa WhatMoreCanIGive song) 
 (isa 2001-01-01T00:00:00Z date) 
@@ -4076,37 +1190,44 @@
 (hasPublishDate ForWhomtheBellTolls 1984-01-01T00:00:00Z) 
 ;;; 
 
-;;; Dope
-(isa Dope song) 
-(isa 2013-11-04T00:00:00Z date) 
-(inGenre Dope electronicrock) 
-(isWrittenBy Dope LadyGaga) 
-(hasPublishDate Dope 2013-11-04T00:00:00Z) 
+;;; Sauver l'amour
+(isa Sauverl'amour song) 
+(isa 1986-03-18T00:00:00Z date) 
+(inGenre Sauverl'amour popmusic) 
+(isWrittenBy Sauverl'amour DanielBalavoine) 
+(hasPublishDate Sauverl'amour 1986-03-18T00:00:00Z) 
 ;;; 
 
-;;; Invisible Empire
-(isa InvisibleEmpire song) 
-(isa 2013-08-19T00:00:00Z date) 
-(inGenre InvisibleEmpire acousticmusic) 
-(isWrittenBy InvisibleEmpire KTTunstall) 
-(hasPublishDate InvisibleEmpire 2013-08-19T00:00:00Z) 
+;;; There but for Fortune
+(isa TherebutforFortune song) 
+(isa 1965-01-01T00:00:00Z date) 
+(inGenre TherebutforFortune protestsong) 
+(isWrittenBy TherebutforFortune PhilOchs) 
+(hasPublishDate TherebutforFortune 1965-01-01T00:00:00Z) 
 ;;; 
 
-;;; Can't Remember to Forget You
-(isa Can'tRemembertoForgetYou song) 
-(isa 2014-01-13T00:00:00Z date) 
-(inGenre Can'tRemembertoForgetYou newwave) 
-(isWrittenBy Can'tRemembertoForgetYou Shakira) 
-(isWrittenBy Can'tRemembertoForgetYou Rihanna) 
-(hasPublishDate Can'tRemembertoForgetYou 2014-01-13T00:00:00Z) 
+;;; Vivre ou survivre
+(isa Vivreousurvivre song) 
+(isa 1982-04-01T00:00:00Z date) 
+(inGenre Vivreousurvivre poprock) 
+(isWrittenBy Vivreousurvivre DanielBalavoine) 
+(hasPublishDate Vivreousurvivre 1982-04-01T00:00:00Z) 
 ;;; 
 
-;;; Hop Is Back
-(isa HopIsBack song) 
-(isa 2013-01-01T00:00:00Z date) 
-(inGenre HopIsBack hiphopmusic) 
-(isWrittenBy HopIsBack Hopsin) 
-(hasPublishDate HopIsBack 2013-01-01T00:00:00Z) 
+;;; Wake Up
+(isa WakeUp song) 
+(isa 2009-02-01T00:00:00Z date) 
+(inGenre WakeUp popmusic) 
+(isWrittenBy WakeUp Yanis) 
+(hasPublishDate WakeUp 2009-02-01T00:00:00Z) 
+;;; 
+
+;;; When Love Breaks Down
+(isa WhenLoveBreaksDown song) 
+(isa 1984-01-01T00:00:00Z date) 
+(inGenre WhenLoveBreaksDown synth-pop) 
+(isWrittenBy WhenLoveBreaksDown PaddyMcAloon) 
+(hasPublishDate WhenLoveBreaksDown 1984-01-01T00:00:00Z) 
 ;;; 
 
 ;;; Hung Up
@@ -4181,44 +1302,55 @@
 (hasPublishDate JusttheWayYouAre 1977-01-01T00:00:00Z) 
 ;;; 
 
-;;; Vivre ou survivre
-(isa Vivreousurvivre song) 
-(isa 1982-04-01T00:00:00Z date) 
-(inGenre Vivreousurvivre poprock) 
-(isWrittenBy Vivreousurvivre DanielBalavoine) 
-(hasPublishDate Vivreousurvivre 1982-04-01T00:00:00Z) 
+;;; Invisible Empire
+(isa InvisibleEmpire song) 
+(isa 2013-08-19T00:00:00Z date) 
+(inGenre InvisibleEmpire acousticmusic) 
+(isWrittenBy InvisibleEmpire KTTunstall) 
+(hasPublishDate InvisibleEmpire 2013-08-19T00:00:00Z) 
 ;;; 
 
-;;; Wake Up
-(isa WakeUp song) 
-(isa 2009-02-01T00:00:00Z date) 
-(inGenre WakeUp popmusic) 
-(isWrittenBy WakeUp Yanis) 
-(hasPublishDate WakeUp 2009-02-01T00:00:00Z) 
+;;; Can't Remember to Forget You
+(isa Can'tRemembertoForgetYou song) 
+(isa 2014-01-13T00:00:00Z date) 
+(inGenre Can'tRemembertoForgetYou newwave) 
+(isWrittenBy Can'tRemembertoForgetYou Shakira) 
+(isWrittenBy Can'tRemembertoForgetYou Rihanna) 
+(hasPublishDate Can'tRemembertoForgetYou 2014-01-13T00:00:00Z) 
 ;;; 
 
-;;; When Love Breaks Down
-(isa WhenLoveBreaksDown song) 
-(isa 1984-01-01T00:00:00Z date) 
-(inGenre WhenLoveBreaksDown synth-pop) 
-(isWrittenBy WhenLoveBreaksDown PaddyMcAloon) 
-(hasPublishDate WhenLoveBreaksDown 1984-01-01T00:00:00Z) 
+;;; Hop Is Back
+(isa HopIsBack song) 
+(isa 2013-01-01T00:00:00Z date) 
+(inGenre HopIsBack hiphopmusic) 
+(isWrittenBy HopIsBack Hopsin) 
+(hasPublishDate HopIsBack 2013-01-01T00:00:00Z) 
 ;;; 
 
-;;; Broken Vow
-(isa BrokenVow song) 
-(isa 1999-01-01T00:00:00Z date) 
-(inGenre BrokenVow westernclassicalmusic) 
-(isWrittenBy BrokenVow LaraFabian) 
-(hasPublishDate BrokenVow 1999-01-01T00:00:00Z) 
+;;; Addicted to You
+(isa AddictedtoYou song) 
+(isa 2013-11-27T00:00:00Z date) 
+(inGenre AddictedtoYou vocalhouse) 
+(isWrittenBy AddictedtoYou Avicii) 
+(hasPublishDate AddictedtoYou 2013-11-27T00:00:00Z) 
 ;;; 
 
-;;; Draft Dodger Rag
-(isa DraftDodgerRag song) 
-(isa 1966-01-01T00:00:00Z date) 
-(inGenre DraftDodgerRag protestsong) 
-(isWrittenBy DraftDodgerRag PhilOchs) 
-(hasPublishDate DraftDodgerRag 1966-01-01T00:00:00Z) 
+;;; Invisible
+(isa Invisible song) 
+(isa 2014-02-02T00:00:00Z date) 
+(inGenre Invisible rockmusic) 
+(isWrittenBy Invisible U2) 
+(hasPublishDate Invisible 2014-02-02T00:00:00Z) 
+;;; 
+
+;;; G.U.Y.
+(isa G.U.Y. song) 
+(isa 2014-03-28T00:00:00Z date) 
+(inGenre G.U.Y. techno) 
+(inGenre G.U.Y. dance-pop) 
+(inGenre G.U.Y. synth-pop) 
+(isWrittenBy G.U.Y. LadyGaga) 
+(hasPublishDate G.U.Y. 2014-03-28T00:00:00Z) 
 ;;; 
 
 ;;; Boyfriend
@@ -4286,55 +1418,45 @@
 (hasPublishDate IThoughtILostYou 2008-01-01T00:00:00Z) 
 ;;; 
 
-;;; Addicted to You
-(isa AddictedtoYou song) 
-(isa 2013-11-27T00:00:00Z date) 
-(inGenre AddictedtoYou vocalhouse) 
-(isWrittenBy AddictedtoYou Avicii) 
-(hasPublishDate AddictedtoYou 2013-11-27T00:00:00Z) 
+;;; L.A. Woman
+(isa L.A.Woman song) 
+(isa 1971-04-19T00:00:00Z date) 
+(inGenre L.A.Woman bluesrock) 
+(isWrittenBy L.A.Woman JimMorrison) 
+(hasPublishDate L.A.Woman 1971-04-19T00:00:00Z) 
 ;;; 
 
-;;; Invisible
-(isa Invisible song) 
-(isa 2014-02-02T00:00:00Z date) 
-(inGenre Invisible rockmusic) 
-(isWrittenBy Invisible U2) 
-(hasPublishDate Invisible 2014-02-02T00:00:00Z) 
+;;; Cockiness
+(isa Cockiness song) 
+(isa 2012-09-07T00:00:00Z date) 
+(inGenre Cockiness dubstep) 
+(inGenre Cockiness dancehall) 
+(isWrittenBy Cockiness Rihanna) 
+(hasPublishDate Cockiness 2012-09-07T00:00:00Z) 
 ;;; 
 
-;;; G.U.Y.
-(isa G.U.Y. song) 
-(isa 2014-03-28T00:00:00Z date) 
-(inGenre G.U.Y. techno) 
-(inGenre G.U.Y. dance-pop) 
-(inGenre G.U.Y. synth-pop) 
-(isWrittenBy G.U.Y. LadyGaga) 
-(hasPublishDate G.U.Y. 2014-03-28T00:00:00Z) 
+;;; Breaking News
+(isa BreakingNews song) 
+(isa 2010-01-01T00:00:00Z date) 
+(inGenre BreakingNews contemporaryR&B) 
+(isWrittenBy BreakingNews MichaelJackson) 
+(hasPublishDate BreakingNews 2010-01-01T00:00:00Z) 
 ;;; 
 
-;;; Find Tomorrow
-(isa FindTomorrow song) 
-(isa 2013-11-29T00:00:00Z date) 
-(inGenre FindTomorrow progressivehouse) 
-(isWrittenBy FindTomorrow DimitriVegas&LikeMike) 
-(hasPublishDate FindTomorrow 2013-11-29T00:00:00Z) 
+;;; Animals
+(isa Animals song) 
+(isa 2014-08-01T00:00:00Z date) 
+(inGenre Animals dance-pop) 
+(isWrittenBy Animals AdamLevine) 
+(hasPublishDate Animals 2014-08-01T00:00:00Z) 
 ;;; 
 
-;;; Lay Me Down
-(isa LayMeDown song) 
-(isa 2013-02-15T00:00:00Z date) 
-(inGenre LayMeDown popmusic) 
-(inGenre LayMeDown contemporaryR&B) 
-(isWrittenBy LayMeDown SamSmith) 
-(hasPublishDate LayMeDown 2013-02-15T00:00:00Z) 
-;;; 
-
-;;; My Love
-(isa MyLove song) 
-(isa 2014-02-28T00:00:00Z date) 
-(inGenre MyLove deephouse) 
-(isWrittenBy MyLove JessGlynne) 
-(hasPublishDate MyLove 2014-02-28T00:00:00Z) 
+;;; Froot
+(isa Froot song) 
+(isa 2014-11-11T00:00:00Z date) 
+(inGenre Froot disco) 
+(isWrittenBy Froot MarinaDiamandis) 
+(hasPublishDate Froot 2014-11-11T00:00:00Z) 
 ;;; 
 
 ;;; Uptown Funk
@@ -4378,12 +1500,20 @@
 (hasPublishDate RunSoFar 1989-01-01T00:00:00Z) 
 ;;; 
 
-;;; Bitch I'm Madonna
-(isa BitchI'mMadonna song) 
-(isa 2015-06-15T00:00:00Z date) 
-(inGenre BitchI'mMadonna electronicdancemusic) 
-(isWrittenBy BitchI'mMadonna Madonna) 
-(hasPublishDate BitchI'mMadonna 2015-06-15T00:00:00Z) 
+;;; Broken Vow
+(isa BrokenVow song) 
+(isa 1999-01-01T00:00:00Z date) 
+(inGenre BrokenVow westernclassicalmusic) 
+(isWrittenBy BrokenVow LaraFabian) 
+(hasPublishDate BrokenVow 1999-01-01T00:00:00Z) 
+;;; 
+
+;;; Draft Dodger Rag
+(isa DraftDodgerRag song) 
+(isa 1966-01-01T00:00:00Z date) 
+(inGenre DraftDodgerRag protestsong) 
+(isWrittenBy DraftDodgerRag PhilOchs) 
+(hasPublishDate DraftDodgerRag 1966-01-01T00:00:00Z) 
 ;;; 
 
 ;;; Timor
@@ -4400,6 +1530,121 @@
 (inGenre Mirage electropop) 
 (isWrittenBy Mirage M.Pokora) 
 (hasPublishDate Mirage 2010-11-22T00:00:00Z) 
+;;; 
+
+;;; Angel
+(isa Angel song) 
+(isa 1998-11-24T00:00:00Z date) 
+(inGenre Angel popmusic) 
+(isWrittenBy Angel SarahMcLachlan) 
+(hasPublishDate Angel 1998-11-24T00:00:00Z) 
+;;; 
+
+;;; Applause
+(isa Applause song) 
+(isa 2013-08-12T00:00:00Z date) 
+(inGenre Applause synth-pop) 
+(isWrittenBy Applause LadyGaga) 
+(hasPublishDate Applause 2013-08-12T00:00:00Z) 
+;;; 
+
+;;; Dark Horse
+(isa DarkHorse song) 
+(isa 2013-09-17T00:00:00Z date) 
+(inGenre DarkHorse hiphopmusic) 
+(inGenre DarkHorse electropop) 
+(inGenre DarkHorse poprap) 
+(inGenre DarkHorse trapmusic) 
+(isWrittenBy DarkHorse JuicyJ) 
+(hasPublishDate DarkHorse 2013-09-17T00:00:00Z) 
+;;; 
+
+;;; I Wanna Talk 2 U
+(isa IWannaTalk2U song) 
+(isa 2012-07-06T00:00:00Z date) 
+(inGenre IWannaTalk2U alternativerock) 
+(isWrittenBy IWannaTalk2U JohnCale) 
+(hasPublishDate IWannaTalk2U 2012-07-06T00:00:00Z) 
+;;; 
+
+;;; Face to the Sky
+(isa FacetotheSky song) 
+(isa 2012-08-29T00:00:00Z date) 
+(inGenre FacetotheSky alternativerock) 
+(isWrittenBy FacetotheSky JohnCale) 
+(hasPublishDate FacetotheSky 2012-08-29T00:00:00Z) 
+;;; 
+
+;;; Living with You
+(isa LivingwithYou song) 
+(isa 2013-02-25T00:00:00Z date) 
+(inGenre LivingwithYou alternativerock) 
+(isWrittenBy LivingwithYou JohnCale) 
+(hasPublishDate LivingwithYou 2013-02-25T00:00:00Z) 
+;;; 
+
+;;; All Summer Long
+(isa AllSummerLong song) 
+(isa 2013-08-06T00:00:00Z date) 
+(inGenre AllSummerLong alternativerock) 
+(isWrittenBy AllSummerLong JohnCale) 
+(hasPublishDate AllSummerLong 2013-08-06T00:00:00Z) 
+;;; 
+
+;;; Heartbreaker
+(isa Heartbreaker song) 
+(isa 2013-10-07T00:00:00Z date) 
+(inGenre Heartbreaker popmusic) 
+(isWrittenBy Heartbreaker JustinBieber) 
+(hasPublishDate Heartbreaker 2013-10-07T00:00:00Z) 
+;;; 
+
+;;; Venus
+(isa Venus song) 
+(isa 2013-10-28T00:00:00Z date) 
+(inGenre Venus synth-pop) 
+(isWrittenBy Venus LadyGaga) 
+(hasPublishDate Venus 2013-10-28T00:00:00Z) 
+;;; 
+
+;;; Masterpiece
+(isa Masterpiece song) 
+(isa 2012-04-02T00:00:00Z date) 
+(inGenre Masterpiece popmusic) 
+(isWrittenBy Masterpiece Madonna) 
+(hasPublishDate Masterpiece 2012-04-02T00:00:00Z) 
+;;; 
+
+;;; Things
+(isa Things song) 
+(isa 2003-10-27T00:00:00Z date) 
+(inGenre Things alternativerock) 
+(isWrittenBy Things JohnCale) 
+(hasPublishDate Things 2003-10-27T00:00:00Z) 
+;;; 
+
+;;; Dope
+(isa Dope song) 
+(isa 2013-11-04T00:00:00Z date) 
+(inGenre Dope electronicrock) 
+(isWrittenBy Dope LadyGaga) 
+(hasPublishDate Dope 2013-11-04T00:00:00Z) 
+;;; 
+
+;;; Bitch I'm Madonna
+(isa BitchI'mMadonna song) 
+(isa 2015-06-15T00:00:00Z date) 
+(inGenre BitchI'mMadonna electronicdancemusic) 
+(isWrittenBy BitchI'mMadonna Madonna) 
+(hasPublishDate BitchI'mMadonna 2015-06-15T00:00:00Z) 
+;;; 
+
+;;; On My Mind
+(isa OnMyMind song) 
+(isa 2015-09-17T00:00:00Z date) 
+(inGenre OnMyMind electropop) 
+(isWrittenBy OnMyMind EllieGoulding) 
+(hasPublishDate OnMyMind 2015-09-17T00:00:00Z) 
 ;;; 
 
 ;;; #thatPOWER
@@ -4434,29 +1679,47 @@
 (hasPublishDate TheLuckyOnes 2012-10-29T00:00:00Z) 
 ;;; 
 
-;;; L.A. Woman
-(isa L.A.Woman song) 
-(isa 1971-04-19T00:00:00Z date) 
-(inGenre L.A.Woman bluesrock) 
-(isWrittenBy L.A.Woman JimMorrison) 
-(hasPublishDate L.A.Woman 1971-04-19T00:00:00Z) 
+;;; In My Secret Life
+(isa InMySecretLife song) 
+(isa 2001-01-01T00:00:00Z date) 
+(inGenre InMySecretLife folkrock) 
+(isWrittenBy InMySecretLife LeonardCohen) 
+(hasPublishDate InMySecretLife 2001-01-01T00:00:00Z) 
 ;;; 
 
-;;; Cockiness
-(isa Cockiness song) 
-(isa 2012-09-07T00:00:00Z date) 
-(inGenre Cockiness dubstep) 
-(inGenre Cockiness dancehall) 
-(isWrittenBy Cockiness Rihanna) 
-(hasPublishDate Cockiness 2012-09-07T00:00:00Z) 
+;;; Find Tomorrow
+(isa FindTomorrow song) 
+(isa 2013-11-29T00:00:00Z date) 
+(inGenre FindTomorrow progressivehouse) 
+(isWrittenBy FindTomorrow DimitriVegas&LikeMike) 
+(hasPublishDate FindTomorrow 2013-11-29T00:00:00Z) 
 ;;; 
 
-;;; Breaking News
-(isa BreakingNews song) 
-(isa 2010-01-01T00:00:00Z date) 
-(inGenre BreakingNews contemporaryR&B) 
-(isWrittenBy BreakingNews MichaelJackson) 
-(hasPublishDate BreakingNews 2010-01-01T00:00:00Z) 
+;;; Lay Me Down
+(isa LayMeDown song) 
+(isa 2013-02-15T00:00:00Z date) 
+(inGenre LayMeDown popmusic) 
+(inGenre LayMeDown contemporaryR&B) 
+(isWrittenBy LayMeDown SamSmith) 
+(hasPublishDate LayMeDown 2013-02-15T00:00:00Z) 
+;;; 
+
+;;; My Love
+(isa MyLove song) 
+(isa 2014-02-28T00:00:00Z date) 
+(inGenre MyLove deephouse) 
+(isWrittenBy MyLove JessGlynne) 
+(hasPublishDate MyLove 2014-02-28T00:00:00Z) 
+;;; 
+
+;;; Friends
+(isa Friends song) 
+(isa 2017-08-17T00:00:00Z date) 
+(inGenre Friends popmusic) 
+(inGenre Friends dance-pop) 
+(inGenre Friends electro) 
+(isWrittenBy Friends JustinBieber) 
+(hasPublishDate Friends 2017-08-17T00:00:00Z) 
 ;;; 
 
 ;;; The Price of Fame
@@ -4475,30 +1738,6 @@
 (hasPublishDate TheSpiritofKnight 2002-07-22T00:00:00Z) 
 ;;; 
 
-;;; On My Mind
-(isa OnMyMind song) 
-(isa 2015-09-17T00:00:00Z date) 
-(inGenre OnMyMind electropop) 
-(isWrittenBy OnMyMind EllieGoulding) 
-(hasPublishDate OnMyMind 2015-09-17T00:00:00Z) 
-;;; 
-
-;;; Animals
-(isa Animals song) 
-(isa 2014-08-01T00:00:00Z date) 
-(inGenre Animals dance-pop) 
-(isWrittenBy Animals AdamLevine) 
-(hasPublishDate Animals 2014-08-01T00:00:00Z) 
-;;; 
-
-;;; Froot
-(isa Froot song) 
-(isa 2014-11-11T00:00:00Z date) 
-(inGenre Froot disco) 
-(isWrittenBy Froot MarinaDiamandis) 
-(hasPublishDate Froot 2014-11-11T00:00:00Z) 
-;;; 
-
 ;;; Verlierer
 (isa Verlierer song) 
 (isa 2020-11-27T00:00:00Z date) 
@@ -4514,6 +1753,24 @@
 (inGenre TheHealer Latinrock) 
 (isWrittenBy TheHealer JohnLeeHooker) 
 (hasPublishDate TheHealer 1989-01-01T00:00:00Z) 
+;;; 
+
+;;; I Wanna Know
+(isa IWannaKnow song) 
+(isa 2016-09-30T00:00:00Z date) 
+(inGenre IWannaKnow electronicdancemusic) 
+(isWrittenBy IWannaKnow JolinTsai) 
+(hasPublishDate IWannaKnow 2016-09-30T00:00:00Z) 
+;;; 
+
+;;; Piece by Piece
+(isa PiecebyPiece song) 
+(isa 2005-01-01T00:00:00Z date) 
+(inGenre PiecebyPiece blues) 
+(inGenre PiecebyPiece popmusic) 
+(inGenre PiecebyPiece countrymusic) 
+(isWrittenBy PiecebyPiece KatieMelua) 
+(hasPublishDate PiecebyPiece 2005-01-01T00:00:00Z) 
 ;;; 
 
 ;;; Désaccordé
@@ -4555,34 +1812,6 @@
 (inGenre OneTouch housemusic) 
 (isWrittenBy OneTouch JessGlynne) 
 (hasPublishDate OneTouch 2019-05-24T00:00:00Z) 
-;;; 
-
-;;; I Wanna Know
-(isa IWannaKnow song) 
-(isa 2016-09-30T00:00:00Z date) 
-(inGenre IWannaKnow electronicdancemusic) 
-(isWrittenBy IWannaKnow JolinTsai) 
-(hasPublishDate IWannaKnow 2016-09-30T00:00:00Z) 
-;;; 
-
-;;; Friends
-(isa Friends song) 
-(isa 2017-08-17T00:00:00Z date) 
-(inGenre Friends popmusic) 
-(inGenre Friends dance-pop) 
-(inGenre Friends electro) 
-(isWrittenBy Friends JustinBieber) 
-(hasPublishDate Friends 2017-08-17T00:00:00Z) 
-;;; 
-
-;;; Piece by Piece
-(isa PiecebyPiece song) 
-(isa 2005-01-01T00:00:00Z date) 
-(inGenre PiecebyPiece blues) 
-(inGenre PiecebyPiece popmusic) 
-(inGenre PiecebyPiece countrymusic) 
-(isWrittenBy PiecebyPiece KatieMelua) 
-(hasPublishDate PiecebyPiece 2005-01-01T00:00:00Z) 
 ;;; 
 
 ;;; 10,000 Hours
