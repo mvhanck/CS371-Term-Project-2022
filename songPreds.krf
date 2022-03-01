@@ -1,5 +1,7 @@
 (in-microtheory MusicRecommenderMt)
 
+(isa MusicRecommenderMt Microtheory)
+
 ;;; song, date, language, genre, lyricist
 ;;; inGenre, isWrittenBy, hasPublishDate, influencedBy
 
