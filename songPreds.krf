@@ -1,35 +1,45 @@
 (in-microtheory MusicRecommenderMt)
 
 ;;; song, date, language, genre, lyricist
-;;; inGenre, isWrittenBy, hasPublishDate, inLanguage
+;;; inGenre, isWrittenBy, hasPublishDate, influencedBy
+
+(isa Song Collection)
+(isa Genre Collection)
+(isa Date Collection)
+(isa Musician Collection)
 
 (isa inGenre Predicate) 
 (arity inGenre 2)
-(arg1isa inGenre Song-CW)
-(arg2isa inGenre Music)
+(arg1isa inGenre Song)
+(arg2isa inGenre Genre)
 (genlPreds inGenre musicTypeIsOfGenre)
 (comment inGenre "(inGenre ?song ?genre) says ?song is in the ?genre genre")
 
 (isa hasPublishDate Predicate) 
 (arity hasPublishDate 2)
-(arg1isa hasPublishDate Song-CW)
-(arg2isa hasPublishDate NumberString)
+(arg1isa hasPublishDate Song)
+(arg2isa hasPublishDate Date)
 (genlPreds hasPublishDate dateOfPublication-CW)
 (comment hasPublishDate "(hasPublishDate ?song ?date) says ?song was published on ?date")
 
 (isa isWrittenBy Predicate)
 (arity isWrittenBy 2)
-(arg1isa isWrittenBy Song-CW)
-(arg2isa isWrittenBy Songwriter)
+(arg1isa isWrittenBy Song)
+(arg2isa isWrittenBy Musician)
 (genlsPreds isWrittenBy creatorOfCW)
 (comment isWrittenBy "(isWrittenBy ?song ?lyricist) says ?song is written by ?lyricist")
 
-(isa inLanguage Predicate)
-(arity inLanguage 2)
-(arg1isa inLanguage Song-CW)
-(arg2isa inLanguage HumanLanguage)
-(genlPreds inLanguage languageWrittenIn)
-(comment inLanguage "(inLanguage ?song ?lang) says ?song is sung in ?inLanguage")
+;;;(isa inLanguage Predicate)
+;;;(arity inLanguage 2)
+;;;(arg1isa inLanguage Song)
+;;;(arg2isa inLanguage HumanLanguage)
+;;;(genlPreds inLanguage languageWrittenIn)
+;;;(comment inLanguage "(inLanguage ?song ?lang) says ?song is sung in ?inLanguage")
 
-
+(isa influencedBy Predicate)
+(arity influencedBy 2)
+(arg1isa influencedBy Musician)
+(arg2isa influencedBy Musician)
+(genlsPreds influencedBy creatorOfCW)
+(comment influencedBy "(influencedBy ?musician ?musician) says ?musician is influenced by ?musician")
 
