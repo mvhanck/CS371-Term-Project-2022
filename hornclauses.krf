@@ -5,25 +5,21 @@
 (<== (sameGenre ?song1 ?song2)
   (inGenre ?song1 ?genre)
   (inGenre ?song2 ?genre)
-  (different ?song1 ?song2)
 )
 
 (<== (similarGenre ?song1 ?song2)
   (inGenre ?song1 ?genre)
   (inGenre ?song2 ?genre)
-  (different ?song1 ?song2)
 )
 
 (<== (sameYear ?song1 ?song2)
   (hasPublishDate ?song1 ?song2)
   (hasPublishDate ?song2 ?year)
-  (different ?song1 ?song2)
 )
 
 (<== (sameDecade ?song1 ?song2)
   (hasPublishDate ?song1 ?song2)
   (hasPublishDate ?song2 ?decade)
-  (different ?song1 ?song2)
 )
 
 (<== (sameMusician ?song1 ?song2)
@@ -35,13 +31,11 @@
 (<== (similarMusician ?song1 ?song2)
   (isWrittenBy ?song1 ?musician)
   (isWrittenBy ?song2 ?musician)
-  (different ?song1 ?song2)
 )
 
 (<== (sameInfluence ?song1 ?song2)
   (influencedBy ?song1 ?musician1)
   (influencedBy ?song2 ?musician2)
-  (different ?song1 ?song2)
 )
 
 
