@@ -26,12 +26,19 @@ results_df = pd.json_normalize(results['results']['bindings'])
 songDict = {}
 musicianDict = {}
 genreDict = {}
+yearDict = {}
 for row in results_df.itertuples():
     title = row[3]
     genre = row[6]
     lyricist = row[9]
     date = row[11]
     influencingArtist = row[14]
+
+    date = re.sub('[^A-Za-z0-9]+', '', date)
+    year = date[0:4]
+
+    if year not in yearDict:
+        yearDict[year] = 1
 
     if genre not in genreDict:
         genreDict[genre] = 1
@@ -53,7 +60,7 @@ for row in results_df.itertuples():
         songDict[title] = {
             "genres" : [genre],
             "lyricists" : [lyricist],
-            "date": date
+            "date": year
         }
 
 print(songDict)
@@ -62,26 +69,26 @@ print(songDict)
 file1 = open("MyFile.krf","a", encoding="utf-8")
 for genre in genreDict.keys():
     genreNew =  re.sub('[^A-Za-z0-9]+', '', genre)
-    file1.write("(isa %s genre) \n" %genreNew)
+    file1.write("(isa %s Genre) \n" %genreNew)
 
+for year in yearDict.keys():
+    file1.write("(isa %s Year) \n" %year)
 
 print(musicianDict)
 for musician in musicianDict.keys():
     musicianNew = re.sub('[^A-Za-z0-9]+', '', musician)
-    file1.write("(isa %s musician) \n" % musicianNew)
+    file1.write("(isa %s Musician) \n" % musicianNew)
     for influencer in musicianDict[musician]:
         influencerNew = re.sub('[^A-Za-z0-9]+', '', influencer)
         file1.write("(influencedBy %s %s) \n" %(musicianNew, influencerNew))
 
 for title in songDict.keys():
 
-    date = re.sub('[^A-Za-z0-9]+', '', songDict[title]["date"])
-    date = date[0:4]
+    date = songDict[title]["date"]
     titleNew = re.sub('[^A-Za-z0-9]+', '', title)
 
     file1.write(";;; " + title + "\n")
-    file1.write("(isa %s song) \n"%titleNew)
-    file1.write("(isa %s year) \n" %date)
+    file1.write("(isa %s Song) \n"%titleNew)
 
     for genre in songDict[title]["genres"]:
         genreNew = re.sub('[^A-Za-z0-9]+', '', genre)
