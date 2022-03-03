@@ -17,12 +17,12 @@
 (genlPreds inGenre musicTypeIsOfGenre)
 (comment inGenre "(inGenre ?song ?genre) says ?song is in the ?genre genre")
 
-(isa hasPublishDate Predicate) 
-(arity hasPublishDate 2)
-(arg1isa hasPublishDate Song)
-(arg2isa hasPublishDate Year)
-(genlPreds hasPublishDate dateOfPublication-CW)
-(comment hasPublishDate "(hasPublishDate ?song ?year) says ?song was published in ?year")
+(isa hasPublishYear Predicate) 
+(arity hasPublishYear 2)
+(arg1isa hasPublishYear Song)
+(arg2isa hasPublishYear Year)
+(genlPreds hasPublishYear dateOfPublication-CW)
+(comment hasPublishYear "(hasPublishYear ?song ?year) says ?song was published in ?year")
 
 (isa isWrittenBy Predicate)
 (arity isWrittenBy 2)
