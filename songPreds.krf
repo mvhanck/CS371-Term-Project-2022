@@ -7,7 +7,7 @@
 
 (isa Song Collection)
 (isa Genre Collection)
-(isa Date Collection)
+(isa Year Collection)
 (isa Musician Collection)
 
 (isa inGenre Predicate) 
@@ -20,9 +20,9 @@
 (isa hasPublishDate Predicate) 
 (arity hasPublishDate 2)
 (arg1isa hasPublishDate Song)
-(arg2isa hasPublishDate Date)
+(arg2isa hasPublishDate Year)
 (genlPreds hasPublishDate dateOfPublication-CW)
-(comment hasPublishDate "(hasPublishDate ?song ?date) says ?song was published on ?date")
+(comment hasPublishDate "(hasPublishDate ?song ?year) says ?song was published in ?year")
 
 (isa isWrittenBy Predicate)
 (arity isWrittenBy 2)
@@ -31,12 +31,6 @@
 (genlsPreds isWrittenBy creatorOfCW)
 (comment isWrittenBy "(isWrittenBy ?song ?lyricist) says ?song is written by ?lyricist")
 
-;;;(isa inLanguage Predicate)
-;;;(arity inLanguage 2)
-;;;(arg1isa inLanguage Song)
-;;;(arg2isa inLanguage HumanLanguage)
-;;;(genlPreds inLanguage languageWrittenIn)
-;;;(comment inLanguage "(inLanguage ?song ?lang) says ?song is sung in ?inLanguage")
 
 (isa influencedBy Predicate)
 (arity influencedBy 2)
