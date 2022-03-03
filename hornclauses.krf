@@ -7,11 +7,6 @@
   (inGenre ?song2 ?genre)
 )
 
-(<== (similarGenre ?song1 ?song2)
-  (inGenre ?song1 ?genre)
-  (inGenre ?song2 ?genre)
-)
-
 (<== (sameYear ?song1 ?song2)
   (hasPublishDate ?song1 ?song2)
   (hasPublishDate ?song2 ?year)
@@ -25,12 +20,6 @@
 (<== (sameMusician ?song1 ?song2)
   (isWrittenBy ?song1 ?musician)
   (isWrittenBy ?song2 ?musician)
-  (different ?song1 ?song2)
-)
-
-(<== (similarMusician ?song1 ?song2)
-  (isWrittenBy ?song1 ?musician)
-  (isWrittenBy ?song2 ?musician)
 )
 
 (<== (sameInfluence ?song1 ?song2)
@@ -38,9 +27,26 @@
   (influencedBy ?song2 ?musician2)
 )
 
+;;; similar songs
 
-;;; Recommend Song
-
-(<== (recommendSimilarSongs ?inputsong)
-  (similarGenre ?inputsong)
+(<== (similarSongGeneral ?inputsong)
+  (sameGenre ?inputsong ?outputsong)
+  (sameDecade ?inputsong ?outputsong)
+  (sameInfluence ?inputsong ?outputsong)
   )
+
+(<== (similarSongOnAlbum ?inputsong)
+  (sameMusician ?inputsong ?outputsong)
+  (sameYear ?inputsong ?outputsong)
+  )
+
+;;; Recommend the Song
+
+(<== (recommendSimilarSong ?inputsong)
+  (similarSongGeneral ?outputsong)
+  )
+  
+(<== (recommendSimilarSong ?inputsong)
+  (similarSongOnAlbum ?inputsong ?outputsong)
+  )
+  
