@@ -1,0 +1,37 @@
+(in-microtheory MusicRecommenderMt)
+
+(isa MusicRecommenderMt Microtheory)
+
+(isa Song Collection)
+(isa Genre Collection)
+(isa Year Collection)
+(isa Musician Collection)
+
+(isa inGenre Predicate) 
+(arity inGenre 2)
+(arg1isa inGenre Song)
+(arg2isa inGenre Genre)
+(genlPreds inGenre musicTypeIsOfGenre)
+(comment inGenre "(inGenre ?song ?genre) says ?song is in the ?genre genre")
+
+(isa hasPublishYear Predicate) 
+(arity hasPublishYear 2)
+(arg1isa hasPublishYear Song)
+(arg2isa hasPublishYear Year)
+(genlPreds hasPublishYear dateOfPublication-CW)
+(comment hasPublishYear "(hasPublishYear ?song ?year) says ?song was published in ?year")
+
+(isa isWrittenBy Predicate)
+(arity isWrittenBy 2)
+(arg1isa isWrittenBy Song)
+(arg2isa isWrittenBy Musician)
+(genlsPreds isWrittenBy creatorOfCW)
+(comment isWrittenBy "(isWrittenBy ?song ?lyricist) says ?song is written by ?lyricist")
+
+
+(isa influencedBy Predicate)
+(arity influencedBy 2)
+(arg1isa influencedBy Musician)
+(arg2isa influencedBy Musician)
+(genlsPreds influencedBy creatorOfCW)
+(comment influencedBy "(influencedBy ?musician ?musician) says ?musician is influenced by ?musician")
