@@ -1,5 +1,6 @@
 from SPARQLWrapper import SPARQLWrapper, JSON
 import pandas as pd
+import re
 
 sparql = SPARQLWrapper("https://query.wikidata.org/sparql")
 
@@ -60,27 +61,36 @@ print(songDict)
 
 file1 = open("MyFile.krf","a", encoding="utf-8")
 for genre in genreDict.keys():
-    file1.write("(isa %s genre) \n" % genre.replace(" ", ""))
+    genreNew =  re.sub('[^A-Za-z0-9]+', '', genre)
+    file1.write("(isa %s genre) \n" %genreNew)
 
 
 print(musicianDict)
 for musician in musicianDict.keys():
-    file1.write("(isa %s musician) \n" % musician.replace(" ", ""))
+    musicianNew = re.sub('[^A-Za-z0-9]+', '', musician)
+    file1.write("(isa %s musician) \n" % musicianNew)
     for influencer in musicianDict[musician]:
-        file1.write("(influencedBy %s %s) \n" % (musician.replace(" ", ""), influencer.replace(" ","")))
+        influencerNew = re.sub('[^A-Za-z0-9]+', '', influencer)
+        file1.write("(influencedBy %s %s) \n" %(musicianNew, influencerNew))
 
 for title in songDict.keys():
-    date = songDict[title]["date"].replace(" ", "")
+
+    date = re.sub('[^A-Za-z0-9]+', '', songDict[title]["date"])
+    date = date[0:4]
+    titleNew = re.sub('[^A-Za-z0-9]+', '', title)
 
     file1.write(";;; " + title + "\n")
-    file1.write("(isa %s song) \n"%title.replace(" ", ""))
-    file1.write("(isa %s date) \n" %date)
-    for genre in songDict[title]["genres"]:
-        file1.write("(inGenre %s %s) \n" % (title.replace(" ", ""), genre.replace(" ", "")))
-    for lyricist in songDict[title]["lyricists"]:
-        file1.write("(isWrittenBy %s %s) \n" % (title.replace(" ", ""), lyricist.replace(" ", "")))
+    file1.write("(isa %s song) \n"%titleNew)
+    file1.write("(isa %s year) \n" %date)
 
-    file1.write("(hasPublishDate %s %s) \n" %(title.replace(" ", ""), date))
+    for genre in songDict[title]["genres"]:
+        genreNew = re.sub('[^A-Za-z0-9]+', '', genre)
+        file1.write("(inGenre %s %s) \n" % (titleNew, genreNew))
+    for lyricist in songDict[title]["lyricists"]:
+        lyricistNew = re.sub('[^A-Za-z0-9]+', '', lyricist)
+        file1.write("(isWrittenBy %s %s) \n" % (titleNew, lyricistNew))
+
+    file1.write("(hasPublishYear %s %s) \n" %(titleNew, date))
 
 
     file1.write(";;; \n")
