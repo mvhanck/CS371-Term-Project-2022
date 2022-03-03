@@ -65,6 +65,51 @@ for row in results_df.itertuples():
 
 print(songDict)
 
+sparql.setQuery("""
+SELECT ?itemLabel ?genreLabel ?writerLabel ?dateLabel ?influenceLabel
+WHERE
+{
+    ?item wdt:P31 wd:Q7366 .
+    ?item wdt:P136 ?genre .
+    ?item wdt:P676 ?writer .
+    ?item wdt:P577 ?date .
+    SERVICE wikibase:label { bd:serviceParam wikibase:language "en" }
+}
+""")
+sparql.setReturnFormat(JSON)
+results = sparql.query().convert()
+
+results_df = pd.json_normalize(results['results']['bindings'])
+
+for row in results_df.itertuples():
+    title = row[3]
+    genre = row[6]
+    lyricist = row[9]
+    date = row[11]
+
+    date = re.sub('[^A-Za-z0-9]+', '', date)
+    year = date[0:4]
+
+    if year not in yearDict:
+        yearDict[year] = 1
+
+    if genre not in genreDict:
+        genreDict[genre] = 1
+    if lyricist not in musicianDict:
+        musicianDict[lyricist] = []
+
+
+    if title in songDict:
+        if genre not in songDict[title]["genres"]:
+            songDict[title]["genres"].append(genre)
+        if lyricist not in songDict[title]["lyricists"]:
+            songDict[title]["lyricists"].append(lyricist)
+    else:
+        songDict[title] = {
+            "genres": [genre],
+            "lyricists": [lyricist],
+            "date": year
+        }
 
 file1 = open("MyFile.krf","a", encoding="utf-8")
 for genre in genreDict.keys():
@@ -102,5 +147,8 @@ for title in songDict.keys():
 
     file1.write(";;; \n")
     file1.write("\n")
+
+
+
 
 file1.close()
