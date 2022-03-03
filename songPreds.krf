@@ -2,9 +2,6 @@
 
 (isa MusicRecommenderMt Microtheory)
 
-;;; song, date, language, genre, lyricist
-;;; inGenre, isWrittenBy, hasPublishDate, influencedBy
-
 (isa Song Collection)
 (isa Genre Collection)
 (isa Year Collection)
