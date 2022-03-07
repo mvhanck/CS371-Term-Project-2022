@@ -111,7 +111,7 @@ for row in results_df.itertuples():
             "date": year
         }
 
-file1 = open("MyFile.krf","a", encoding="utf-8")
+file1 = open("songDetails.krf","a", encoding="utf-8")
 for genre in genreDict.keys():
     genreNew =  re.sub('[^A-Za-z0-9]+', '', genre)
     file1.write("(isa %s Genre) \n" %genreNew)
