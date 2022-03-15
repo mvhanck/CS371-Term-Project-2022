@@ -20,7 +20,7 @@ There are three files that makeup the MusicRecommenderMt microtheory: songDetail
 **(sameGenre ?song1 ?song2)** finds songs of the same genre as **song1**. <br />
 **(sameYear ?song1 ?song2)** finds songs published in the same year as **song1**. <br />
 **(sameMusician ?song1 ?song2)** finds songs performed by the same musician as **song1**. <br />
-**(sameInfluence ?song1 ?song2)** finds songs who are sung by musicians who share the same musical influence.
+**(sameInfluence ?song1 ?song2)** finds songs who are sung by the same musical influence as that of the musician of **song1**.
 
 ### Similarity
 **(similarSongGeneral ?inputsong ?outputsong)** finds songs that are in the same genre and whose musicians share a musical influence.  <br />
