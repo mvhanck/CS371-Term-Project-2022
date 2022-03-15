@@ -2,9 +2,10 @@ from SPARQLWrapper import SPARQLWrapper, JSON
 import pandas as pd
 import re
 
+# Initialize SPARQL Wrapper
 sparql = SPARQLWrapper("https://query.wikidata.org/sparql")
 
-# From https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples#Cats
+# Define Query to get item, genreLabel, writerLabel, dateLabel, and influenceLabel
 sparql.setQuery("""
 SELECT ?itemLabel ?genreLabel ?writerLabel ?dateLabel ?influenceLabel
 WHERE
@@ -20,13 +21,16 @@ WHERE
 sparql.setReturnFormat(JSON)
 results = sparql.query().convert()
 
+# Convert query result to panda data frame
 results_df = pd.json_normalize(results['results']['bindings'])
-# print(results_df.info)
-# print(results_df[['item.value', 'itemLabel.value']].head())
+
+# Initialize empty dictionaries for each unique item
 songDict = {}
 musicianDict = {}
 genreDict = {}
 yearDict = {}
+
+# Go through each row in the data frame and save data to dictionaries
 for row in results_df.itertuples():
     title = row[3]
     genre = row[6]
@@ -34,6 +38,7 @@ for row in results_df.itertuples():
     date = row[11]
     influencingArtist = row[14]
 
+    # Remove special characters to prevent error when the Companion parses the krf file
     date = re.sub('[^A-Za-z0-9]+', '', date)
     year = date[0:4]
 
@@ -63,8 +68,10 @@ for row in results_df.itertuples():
             "date": year
         }
 
+# Print all songs added to the song dictionary
 print(songDict)
 
+# Additional query to get more songs (No longer requiring influencing artists)
 sparql.setQuery("""
 SELECT ?itemLabel ?genreLabel ?writerLabel ?dateLabel ?influenceLabel
 WHERE
@@ -78,9 +85,9 @@ WHERE
 """)
 sparql.setReturnFormat(JSON)
 results = sparql.query().convert()
-
 results_df = pd.json_normalize(results['results']['bindings'])
 
+# Same process as above
 for row in results_df.itertuples():
     title = row[3]
     genre = row[6]
@@ -111,15 +118,17 @@ for row in results_df.itertuples():
             "date": year
         }
 
+# Open songDetails.krf and write all genres to it
 file1 = open("songDetails.krf","a", encoding="utf-8")
 for genre in genreDict.keys():
     genreNew =  re.sub('[^A-Za-z0-9]+', '', genre)
     file1.write("(isa %s Genre) \n" %genreNew)
 
+# Write all years to krf
 for year in yearDict.keys():
     file1.write("(isa %s Year) \n" %year)
 
-print(musicianDict)
+# Write musicians to file as well as predicate for who they are influenced by
 for musician in musicianDict.keys():
     musicianNew = re.sub('[^A-Za-z0-9]+', '', musician)
     file1.write("(isa %s Musician) \n" % musicianNew)
@@ -127,6 +136,7 @@ for musician in musicianDict.keys():
         influencerNew = re.sub('[^A-Za-z0-9]+', '', influencer)
         file1.write("(influencedBy %s %s) \n" %(musicianNew, influencerNew))
 
+# Write all relevant song data and predicates
 for title in songDict.keys():
 
     date = songDict[title]["date"]
@@ -148,7 +158,5 @@ for title in songDict.keys():
     file1.write(";;; \n")
     file1.write("\n")
 
-
-
-
+# Close file
 file1.close()
