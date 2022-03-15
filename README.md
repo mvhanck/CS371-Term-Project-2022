@@ -10,7 +10,7 @@ The data from Wikidata was transformed into krf format to allow for use of Compa
 ## Microtheory Files
 There are three files that makeup the MusicRecommenderMt microtheory: songDetails.krf, songPreds.krf, and hornclauses.krf.
 
-`songDetails.krf` contains the knowledge from Wikidata.
+`songDetails.krf` contains the knowledge from Wikidata. <br /
 `songPreds.krf` defines the predicates that our team used to define attributes of songs.
 `hornclauses.krf` contains the horn clauses that our team used to reason with the knowledge and ultimately recommend a song.
 
