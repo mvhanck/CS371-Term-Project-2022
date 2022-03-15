@@ -1,6 +1,12 @@
 # CS371-Term-Project-2022
 Knowledge-based approach to a song recommendation system. Designed as a final term project for CS 371 Knowledge Representation and Reasoning at Northwestern University in Winter 2022. 
 
+## Team Members
+Dennis Agelov, Maya Hanck, Robert Loza, Jake Rogers
+
+## Project Goal
+The objective of this project is to use knowledge representation and reasoning to create a song track recommendation system. The system reasons about what song a user might enjoy based on a set of defining criteria including: genre, musician, publish date, and the musician’s influences. Based on the user’s input of a song title, the system reasons about song similarity and ultimately recommends a song.
+
 ## Source Knowledge
 The knowledge used in this system is sourced from Wikidata. 
 
