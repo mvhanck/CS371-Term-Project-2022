@@ -10,20 +10,20 @@ The data from Wikidata was transformed into krf format to allow for use of Compa
 ## Microtheory Files
 There are three files that makeup the MusicRecommenderMt microtheory: songDetails.krf, songPreds.krf, and hornclauses.krf.
 
-`songDetails.krf` contains the knowledge from Wikidata. <br /
-`songPreds.krf` defines the predicates that our team used to define attributes of songs.
+`songDetails.krf` contains the knowledge from Wikidata. <br />
+`songPreds.krf` defines the predicates that our team used to define attributes of songs. <br />
 `hornclauses.krf` contains the horn clauses that our team used to reason with the knowledge and ultimately recommend a song.
 
 ## Horn Clauses
 
 ### Sameness
-**(sameGenre ?song1 ?song2)** finds songs of the same genre as **song1**.
-**(sameYear ?song1 ?song2)** finds songs published in the same year as **song1**.
-**(sameMusician ?song1 ?song2)** finds songs performed by the same musician as **song1**.
+**(sameGenre ?song1 ?song2)** finds songs of the same genre as **song1**. <br />
+**(sameYear ?song1 ?song2)** finds songs published in the same year as **song1**. <br />
+**(sameMusician ?song1 ?song2)** finds songs performed by the same musician as **song1**. <br />
 **(sameInfluence ?song1 ?song2)** finds songs who are sung by musicians who share the same musical influence.
 
 ### Similarity
-**(similarSongGeneral ?inputsong ?outputsong)** finds songs that are in the same genre and whose musicians share a musical influence. 
+**(similarSongGeneral ?inputsong ?outputsong)** finds songs that are in the same genre and whose musicians share a musical influence.  <br />
 **(similarSongOnAlbum ?inputsong ?outputsong)** finds songs that are performed by the same musician and published in the same year, indicating that they are probably on the same album.
 
 ### Recommendation
