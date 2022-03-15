@@ -35,5 +35,8 @@ There are three files that makeup the MusicRecommenderMt microtheory: songDetail
 ### Recommendation
 **(recommendSimilarSong ?inputsong ?outputsong)** finds songs that are either **similarSongGeneral** or **similarSongOnAlbum**. 
 
+## Data scraping
+Edit `generateKrf.py` to modify data encoding and data scraping. The SPARQL queries could be modified to select for different or more attributes with minor modifications to data processing code.
+
 ## Helpful Links
 WikiData: https://www.wikidata.org/wiki/Wikidata:Main_Page
